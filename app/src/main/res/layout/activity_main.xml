@@ -1,0 +1,160 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlv1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:padding="25dp"
+        android:id="@+id/containerTop"
+        android:background="@drawable/rectangle"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_CurrencyCode"
+            android:textSize="18sp"
+            android:text="INR"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/FinalAmount_textview"
+            android:textSize="42sp"
+            android:text="0.00"
+            android:ellipsize="marquee"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/containerStock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/containerTop"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="25dp"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Stock"
+            android:layout_weight="1"
+            android:layout_gravity="right|center_vertical"
+            />
+
+        <EditText
+
+            android:id="@+id/et_Stocks"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="7"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@id/containerStock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="25dp"
+        android:id="@+id/containerStockSymbol">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Stock Symbol"
+            android:layout_weight="1"
+            android:layout_gravity="right|center_vertical"
+            />
+
+        <EditText
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ems="7"
+            android:id="@+id/et_StocksSymbol"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@id/containerStockSymbol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="25dp"
+        android:id="@+id/containerStockTrader">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Stock Trader"
+            android:layout_weight="1"
+            android:layout_gravity="right|center_vertical"
+            />
+
+        <EditText
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ems="7"
+            android:id="@+id/et_StocksTrader"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@id/containerStockTrader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="25dp"
+        android:id="@+id/containerBank">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Bank"
+            android:layout_weight="1"
+            android:layout_gravity="right|center_vertical"
+            />
+
+        <EditText
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ems="7"
+            android:id="@+id/et_Bank"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+
+
