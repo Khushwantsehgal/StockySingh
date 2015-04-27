@@ -3,8 +3,12 @@ package com.example.khsingh.stockysingh;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.view.KeyEvent;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -12,13 +16,14 @@ import android.widget.Toast;
 import java.text.DecimalFormat;
 
 
-public class MainActivity extends Activity implements View.OnClickListener{
+public class MainActivity extends Activity implements View.OnClickListener {
 
 
     EditText mStock; //Edittext for  Number of Stocks
     TextView mFinalAmount, mCurrencyCode; //Holds Calculated final value, and Currency Code
-    int mStockValue=0; //HoldsNumber of Stocks
-    Double mStockTradingAt = 73.21,mLocalCurrencyExchangeRate=62.55,mAmountInLocalCurrency;
+    int mStockValue = 0; //HoldsNumber of Stocks
+    Double mStockTradingAt = 73.21, mLocalCurrencyExchangeRate = 62.55, mAmountInLocalCurrency;
+    AutoCompleteTextView mStockSymbol;
     final int REQ_CODE_CURRENCY_SYMBOL = 2;
 
 
@@ -27,80 +32,89 @@ public class MainActivity extends Activity implements View.OnClickListener{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
+        try {
+            Toast.makeText(getBaseContext(), "StockSymbol reached", Toast.LENGTH_SHORT).show();
+            String[] StockSymbol = getResources().getStringArray(R.array.USA_National_Stock_Exchange);
+            ArrayAdapter<String> a_StockSymbol = new ArrayAdapter<String>(this, R.layout.layout_for_stock_symbols, StockSymbol);
+            mStockSymbol.setAdapter(a_StockSymbol);
+
+
+        } catch (Exception e) {
+
+        }
     }
 
-    private void initViews(){
+    private void initViews() {
         mStock = (EditText) findViewById(R.id.et_Stocks);
         mFinalAmount = (TextView) findViewById(R.id.FinalAmount_textview);
         mCurrencyCode = (TextView) findViewById(R.id.tv_CurrencyCode);
 
-        mStock.setOnKeyListener(mOnKeyListener);
+        mStock.setOnKeyListener(mStocksFieldListener);
         mCurrencyCode.setOnClickListener(this);
+        mStockSymbol = (AutoCompleteTextView) findViewById(R.id.act_StocksSymbol);
+        //mStockSymbol.addTextChangedListener(this);
 
         //mStock.addTextChangedListener(); // read and use it in place of OnKeyListener
     }
 
-    protected void  onActivityResult(int requestCode, int resultCode, Intent data){
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-        if(requestCode==REQ_CODE_CURRENCY_SYMBOL){
-            String message=data.getStringExtra("MESSAGE");
+        if (requestCode == REQ_CODE_CURRENCY_SYMBOL) {
+            String message = data.getStringExtra("MESSAGE");
             mCurrencyCode.setText(message);
         }
     }
 
     private boolean isEmpty(EditText etText) {
-        Toast.makeText(getApplicationContext()," Length: " + etText.getText().toString().trim().length(),Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), " Length: " + etText.getText().toString().trim().length(), Toast.LENGTH_SHORT).show();
         return etText.getText().toString().trim().length() == 0;
     }
 
     @Override
     public void onClick(View v) {
 
-        switch(v.getId()){
-            case R.id.tv_CurrencyCode:
-            {
-                Toast.makeText(getBaseContext(),"Try Reached", Toast.LENGTH_SHORT).show();
+        switch (v.getId()) {
+            case R.id.tv_CurrencyCode: {
+                Toast.makeText(getBaseContext(), "Try Reached", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(MainActivity.this, MainCurrencyCodeSelector.class);
                 startActivityForResult(intent, REQ_CODE_CURRENCY_SYMBOL);
             }
             break;
+
         }
     }//OnClick Ends
 
 
-
-    private View.OnKeyListener mOnKeyListener = new View.OnKeyListener(){
+    private View.OnKeyListener mStocksFieldListener = new View.OnKeyListener() {
         @Override
         public boolean onKey(View v, int keyCode, KeyEvent event) {
-            try{
+            try {
                 if ((event.getAction() == KeyEvent.ACTION_UP) || (keyCode == KeyEvent.KEYCODE_ENTER)) {
 
-                    try{
-                        if(!isEmpty(mStock)){
+                    try {
+                        if (!isEmpty(mStock)) {
                             mStockValue = Integer.parseInt(mStock.getText().toString());
 
-                        }else{
+                        } else {
                             Toast.makeText(getApplicationContext(), "You did not enter a username", Toast.LENGTH_SHORT).show();
                             mStockValue = 0;
                         }
-                    }
-                    catch (NumberFormatException n){
-                        Toast.makeText(getApplicationContext(),"Throwing Number format Exception",Toast.LENGTH_LONG).show();
-                    }
-                    finally {
-                        Toast.makeText(getApplicationContext(),"Finally",Toast.LENGTH_LONG).show();
+                    } catch (NumberFormatException n) {
+                        Toast.makeText(getApplicationContext(), "Throwing Number format Exception", Toast.LENGTH_LONG).show();
+                    } finally {
+                        Toast.makeText(getApplicationContext(), "Finally", Toast.LENGTH_LONG).show();
                         mAmountInLocalCurrency = ((double) mStockValue * mStockTradingAt) * mLocalCurrencyExchangeRate;
                         DecimalFormat df = new DecimalFormat("#.##");
                         if (df instanceof DecimalFormat) {
-                            ((DecimalFormat)df).setMinimumFractionDigits(2);
+                            ((DecimalFormat) df).setMinimumFractionDigits(2);
                             mFinalAmount.setText((df.format(mAmountInLocalCurrency)).toString());
                         }
 
                     }
                 }
 
-            }catch (Exception e){
+            } catch (Exception e) {
                 //e.printStackTrace();
             }
             return false;
@@ -109,3 +123,5 @@ public class MainActivity extends Activity implements View.OnClickListener{
     };
 
 }
+
+

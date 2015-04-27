@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/tv_CurrencyCode"
-            android:textSize="18sp"
+            android:textSize="21sp"
             android:text="INR"/>
         <TextView
             android:layout_width="match_parent"
@@ -82,12 +82,12 @@
             android:layout_gravity="right|center_vertical"
             />
 
-        <EditText
+        <AutoCompleteTextView
 
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:ems="7"
-            android:id="@+id/et_StocksSymbol"
+            android:id="@+id/act_StocksSymbol"
             android:layout_gravity="right"
             android:layout_weight="1"
             />
