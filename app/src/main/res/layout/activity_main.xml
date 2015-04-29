@@ -11,7 +11,8 @@
         android:padding="25dp"
         android:id="@+id/containerTop"
         android:background="@drawable/rectangle"
-        android:gravity="center_vertical">
+        android:gravity="center_vertical"
+        android:weightSum="1">
 
         <TextView
             android:layout_width="match_parent"
@@ -39,6 +40,7 @@
         android:layout_below="@id/containerTop"
         android:layout_marginTop="15dp"
         android:paddingLeft="25dp"
+        android:paddingRight="25dp"
         >
 
         <TextView
@@ -71,6 +73,7 @@
         android:orientation="horizontal"
         android:layout_marginTop="15dp"
         android:paddingLeft="25dp"
+        android:paddingRight="25dp"
         android:id="@+id/containerStockSymbol">
 
         <TextView
@@ -82,15 +85,17 @@
             android:layout_gravity="right|center_vertical"
             />
 
-        <AutoCompleteTextView
 
+        <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:ems="7"
-            android:id="@+id/act_StocksSymbol"
+            android:id="@+id/tv_StocksSymbol"
             android:layout_gravity="right"
+            android:textSize="21sp"
             android:layout_weight="1"
-            />
+            android:text="ADBE"/>
+
 
 
     </LinearLayout>
@@ -102,6 +107,7 @@
         android:orientation="horizontal"
         android:layout_marginTop="15dp"
         android:paddingLeft="25dp"
+        android:paddingRight="25dp"
         android:id="@+id/containerStockTrader">
 
         <TextView
@@ -131,6 +137,7 @@
         android:orientation="horizontal"
         android:layout_marginTop="15dp"
         android:paddingLeft="25dp"
+        android:paddingRight="25dp"
         android:id="@+id/containerBank">
 
         <TextView

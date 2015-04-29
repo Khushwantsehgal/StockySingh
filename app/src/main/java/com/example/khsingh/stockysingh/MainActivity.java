@@ -20,11 +20,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
 
     EditText mStock; //Edittext for  Number of Stocks
-    TextView mFinalAmount, mCurrencyCode; //Holds Calculated final value, and Currency Code
+    TextView mFinalAmount, mCurrencyCode,mStockSymbol2; //Holds Calculated final value, and Currency Code
     int mStockValue = 0; //HoldsNumber of Stocks
     Double mStockTradingAt = 73.21, mLocalCurrencyExchangeRate = 62.55, mAmountInLocalCurrency;
     AutoCompleteTextView mStockSymbol;
-    final int REQ_CODE_CURRENCY_SYMBOL = 2;
+    final int REQ_CODE_CURRENCY_SYMBOL = 2, REQ_CODE_STOCK_SYMBOL=3;
 
 
     @Override
@@ -32,26 +32,17 @@ public class MainActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
-        try {
-            Toast.makeText(getBaseContext(), "StockSymbol reached", Toast.LENGTH_SHORT).show();
-            String[] StockSymbol = getResources().getStringArray(R.array.USA_National_Stock_Exchange);
-            ArrayAdapter<String> a_StockSymbol = new ArrayAdapter<String>(this, R.layout.layout_for_stock_symbols, StockSymbol);
-            mStockSymbol.setAdapter(a_StockSymbol);
-
-
-        } catch (Exception e) {
-
-        }
     }
 
     private void initViews() {
         mStock = (EditText) findViewById(R.id.et_Stocks);
         mFinalAmount = (TextView) findViewById(R.id.FinalAmount_textview);
         mCurrencyCode = (TextView) findViewById(R.id.tv_CurrencyCode);
+        mStockSymbol2 = (TextView) findViewById(R.id.tv_StocksSymbol);
 
         mStock.setOnKeyListener(mStocksFieldListener);
         mCurrencyCode.setOnClickListener(this);
-        mStockSymbol = (AutoCompleteTextView) findViewById(R.id.act_StocksSymbol);
+        mStockSymbol2.setOnClickListener(this);
         //mStockSymbol.addTextChangedListener(this);
 
         //mStock.addTextChangedListener(); // read and use it in place of OnKeyListener
@@ -63,6 +54,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
         if (requestCode == REQ_CODE_CURRENCY_SYMBOL) {
             String message = data.getStringExtra("MESSAGE");
             mCurrencyCode.setText(message);
+        }else if(requestCode == REQ_CODE_STOCK_SYMBOL){
+            String message = data.getStringExtra("MESSAGE");
+            mStockSymbol2.setText(message);
         }
     }
 
@@ -79,6 +73,12 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 Toast.makeText(getBaseContext(), "Try Reached", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(MainActivity.this, MainCurrencyCodeSelector.class);
                 startActivityForResult(intent, REQ_CODE_CURRENCY_SYMBOL);
+            }
+            break;
+            case R.id.tv_StocksSymbol: {
+                Toast.makeText(getBaseContext(), "StockSymbol Reached", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(MainActivity.this, MainStockSymbolSelector.class);
+                startActivityForResult(intent,REQ_CODE_STOCK_SYMBOL);
             }
             break;
 

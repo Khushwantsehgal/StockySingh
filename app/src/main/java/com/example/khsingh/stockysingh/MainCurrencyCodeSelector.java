@@ -29,7 +29,8 @@ public class MainCurrencyCodeSelector extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_currencycodeselector);
-        CurrencySymbol = (ListView) findViewById(R.id.CurrencySymbol_ListView);
+        initViews();
+
         availableCurrenciesSet = Currency.getAvailableCurrencies();
         availableCurrenciesList = new ArrayList<Currency>(availableCurrenciesSet);
         try{
@@ -60,5 +61,8 @@ public class MainCurrencyCodeSelector extends Activity {
             }
         });
 
-    }
+    }// OnCreate ends
+    private void initViews(){
+        CurrencySymbol = (ListView) findViewById(R.id.CurrencySymbol_ListView);
+    } //InitViews ends
 }
