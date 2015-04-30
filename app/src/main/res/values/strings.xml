@@ -5,1752 +5,1752 @@
     <string name="action_settings">Settings</string>
 
     <string-array name="USA_National_Stock_Exchange">
-    <item>GLRE</item>
-    <item>VISN</item>
-    <item>RLOC</item>
-    <item>FUEL</item>
-    <item>SZMK</item>
-    <item>BEAV</item>
-    <item>TASR</item>
-    <item>LMIA</item>
-    <item>AVAV</item>
-    <item>SWHC</item>
-    <item>WWD</item>
-    <item>ATRO</item>
-    <item>ISSC</item>
-    <item>EXPD</item>
-    <item>FWRD</item>
-    <item>MLNK</item>
-    <item>HUBG</item>
-    <item>ATSG</item>
-    <item>CHRW</item>
-    <item>UTIW</item>
-    <item>AAWW</item>
-    <item>PHII</item>
-    <item>AIRM</item>
-    <item>CENX</item>
-    <item>KALU</item>
-    <item>URBN</item>
-    <item>PLCE</item>
-    <item>CHKE</item>
-    <item>SMRT</item>
-    <item>GMAN</item>
-    <item>BEBE</item>
-    <item>ASNA</item>
-    <item>WTSL</item>
-    <item>DXLG</item>
-    <item>ROST</item>
-    <item>PSUN</item>
-    <item>SCVL</item>
-    <item>FRAN</item>
-    <item>DEST</item>
-    <item>CTRN</item>
-    <item>CACH</item>
-    <item>IRBT</item>
-    <item>IMMR</item>
-    <item>QADA</item>
-    <item>SQI</item>
-    <item>CDK</item>
-    <item>BIRT</item>
-    <item>RP</item>
-    <item>JIVE</item>
-    <item>FTNT</item>
-    <item>UPIP</item>
-    <item>TUBE</item>
-    <item>SNCR</item>
-    <item>ACTA</item>
-    <item>CTRX</item>
-    <item>MOBL</item>
-    <item>STMP</item>
-    <item>DTSI</item>
-    <item>AGYS</item>
-    <item>SYNA</item>
-    <item>AMSWA</item>
-    <item>EIGI</item>
-    <item>MGIC</item>
-    <item>CVLT</item>
-    <item>TYPE</item>
-    <item>ADVS</item>
-    <item>PRGS</item>
-    <item>PCTY</item>
-    <item>COVS</item>
-    <item>CSOD</item>
-    <item>ANSS</item>
-    <item>AMAP</item>
-    <item>BCOV</item>
-    <item>MDRX</item>
-    <item>SPSC</item>
-    <item>BV</item>
-    <item>PLUS</item>
-    <item>MKTO</item>
-    <item>CDNS</item>
-    <item>NSIT</item>
-    <item>CNIT</item>
-    <item>EGOV</item>
-    <item>ZIXI</item>
-    <item>OTEX</item>
-    <item>CPWR</item>
-    <item>FEYE</item>
-    <item>QLYS</item>
-    <item>MANH</item>
-    <item>MSTR</item>
-    <item>NUAN</item>
-    <item>TSYS</item>
-    <item>MTLS</item>
-    <item>SEAC</item>
-    <item>SMSI</item>
-    <item>KEYW</item>
-    <item>TWOU</item>
-    <item>XNET</item>
-    <item>BSFT</item>
-    <item>SPLK</item>
-    <item>ADBE</item>
-    <item>LOGM</item>
-    <item>YDLE</item>
-    <item>INTU</item>
-    <item>MCGC</item>
-    <item>WETF</item>
-    <item>VRTS</item>
-    <item>ACAS</item>
-    <item>FNGN</item>
-    <item>CG</item>
-    <item>SEIC</item>
-    <item>DHIL</item>
-    <item>ECPG</item>
-    <item>REXI</item>
-    <item>CSWC</item>
-    <item>HRZN</item>
-    <item>TROW</item>
-    <item>CLMS</item>
-    <item>NTRS</item>
-    <item>FBRC</item>
-    <item>CRMT</item>
-    <item>RUSHB</item>
-    <item>CPRT</item>
-    <item>KNDI</item>
-    <item>TSLA</item>
-    <item>LKQ</item>
-    <item>MNRO</item>
-    <item>VOXX</item>
-    <item>THRM</item>
-    <item>DORM</item>
-    <item>FDML</item>
-    <item>FSYS</item>
-    <item>GNTX</item>
-    <item>MPAA</item>
-    <item>REMY</item>
-    <item>WPRT</item>
-    <item>PRTS</item>
-    <item>ORLY</item>
-    <item>CVGI</item>
-    <item>BREW</item>
-    <item>SODA</item>
-    <item>MNST</item>
-    <item>COKE</item>
-    <item>FIZZ</item>
-    <item>INO</item>
-    <item>ALNY</item>
-    <item>ACOR</item>
-    <item>OPHT</item>
-    <item>GERN</item>
-    <item>ZFGN</item>
-    <item>ARWR</item>
-    <item>ECYT</item>
-    <item>RELV</item>
-    <item>PCYC</item>
-    <item>PDLI</item>
-    <item>BIIB</item>
-    <item>OMED</item>
-    <item>ARNA</item>
-    <item>CBST</item>
-    <item>KITE</item>
-    <item>QLTI</item>
-    <item>RGEN</item>
-    <item>BMRN</item>
-    <item>ALXN</item>
-    <item>IMGN</item>
-    <item>FPRX</item>
-    <item>ANIK</item>
-    <item>TSRO</item>
-    <item>JAZZ</item>
-    <item>FWP</item>
-    <item>CCXI</item>
-    <item>NVAX</item>
-    <item>ENTA</item>
-    <item>REGN</item>
-    <item>ARIA</item>
-    <item>GEVA</item>
-    <item>GILD</item>
-    <item>DERM</item>
-    <item>CLVS</item>
-    <item>SQNM</item>
-    <item>ONTX</item>
-    <item>RNA</item>
-    <item>SGMO</item>
-    <item>QURE</item>
-    <item>CALA</item>
-    <item>LXRX</item>
-    <item>ACAD</item>
-    <item>BCRX</item>
-    <item>EPZM</item>
-    <item>INCY</item>
-    <item>TRGT</item>
-    <item>CDXS</item>
-    <item>THRX</item>
-    <item>PTIE</item>
-    <item>RLYP</item>
-    <item>AVEO</item>
-    <item>HALO</item>
-    <item>FGEN</item>
-    <item>ACHN</item>
-    <item>SVA</item>
-    <item>PTLA</item>
-    <item>VICL</item>
-    <item>MGNX</item>
-    <item>AEGR</item>
-    <item>PGNX</item>
-    <item>SPPI</item>
-    <item>DRNA</item>
-    <item>INSM</item>
-    <item>PRTA</item>
-    <item>CLDX</item>
-    <item>SGEN</item>
-    <item>XNPT</item>
-    <item>ILMN</item>
-    <item>CEMP</item>
-    <item>NKTR</item>
-    <item>BOTA</item>
-    <item>EXEL</item>
-    <item>RCPT</item>
-    <item>ENZY</item>
-    <item>HPTX</item>
-    <item>PTCT</item>
-    <item>ONTY</item>
-    <item>RARE</item>
-    <item>AMGN</item>
-    <item>CELG</item>
-    <item>TECH</item>
-    <item>VVUS</item>
-    <item>SRPT</item>
-    <item>AMRI</item>
-    <item>NPSP</item>
-    <item>VTL</item>
-    <item>AGIO</item>
-    <item>TRVN</item>
-    <item>CBPO</item>
-    <item>PACB</item>
-    <item>MDVN</item>
-    <item>INFI</item>
-    <item>VRTX</item>
-    <item>BLUE</item>
-    <item>BIND</item>
-    <item>EMMS</item>
-    <item>CMLS</item>
-    <item>SIRI</item>
-    <item>NWSA</item>
-    <item>CTCM</item>
-    <item>LMCA</item>
-    <item>AMCX</item>
-    <item>CETV</item>
-    <item>SBGI</item>
-    <item>LVNTA</item>
-    <item>NXST</item>
-    <item>LBRDK</item>
-    <item>MLHR</item>
-    <item>HCSG</item>
-    <item>TTEC</item>
-    <item>ACTG</item>
-    <item>LIOX</item>
-    <item>EXLS</item>
-    <item>MRKT</item>
-    <item>PCLN</item>
-    <item>FISV</item>
-    <item>PRAA</item>
-    <item>PCO</item>
-    <item>EEFT</item>
-    <item>ASFI</item>
-    <item>CATM</item>
-    <item>ENOC</item>
-    <item>PRGX</item>
-    <item>ASPS</item>
-    <item>CTAS</item>
-    <item>SCOR</item>
-    <item>WSTC</item>
-    <item>GSOL</item>
-    <item>ABCO</item>
-    <item>RRD</item>
-    <item>VRSK</item>
-    <item>PFMT</item>
-    <item>CASS</item>
-    <item>LABL</item>
-    <item>CMPR</item>
-    <item>MOLG</item>
-    <item>RPXC</item>
-    <item>HMSY</item>
-    <item>IILG</item>
-    <item>UEPS</item>
-    <item>REIS</item>
-    <item>RENT</item>
-    <item>PRFT</item>
-    <item>EPAY</item>
-    <item>CSGS</item>
-    <item>MSFT</item>
-    <item>FORTY</item>
-    <item>LPSN</item>
-    <item>PERI</item>
-    <item>PKT</item>
-    <item>CA</item>
-    <item>INFA</item>
-    <item>CTSH</item>
-    <item>PEGA</item>
-    <item>VRNT</item>
-    <item>BLKB</item>
-    <item>NTCT</item>
-    <item>ADP</item>
-    <item>SREV</item>
-    <item>TNGO</item>
-    <item>SAPE</item>
-    <item>EBIX</item>
-    <item>TIBX</item>
-    <item>DOX</item>
-    <item>ININ</item>
-    <item>CYBR</item>
-    <item>QLIK</item>
-    <item>AZPN</item>
-    <item>FFIV</item>
-    <item>JKHY</item>
-    <item>CTXS</item>
-    <item>SSNC</item>
-    <item>LQDT</item>
-    <item>QVCA</item>
-    <item>AMZN</item>
-    <item>EVLV</item>
-    <item>MELI</item>
-    <item>LBTYA</item>
-    <item>NFLX</item>
-    <item>DISCA</item>
-    <item>TIVO</item>
-    <item>DISH</item>
-    <item>CHTR</item>
-    <item>CRWN</item>
-    <item>DTV</item>
-    <item>SHLM</item>
-    <item>ACET</item>
-    <item>BCPC</item>
-    <item>TICC</item>
-    <item>WSTL</item>
-    <item>IIJI</item>
-    <item>NMRX</item>
-    <item>SONS</item>
-    <item>INFN</item>
-    <item>ENVI</item>
-    <item>ALLT</item>
-    <item>SATS</item>
-    <item>QCOM</item>
-    <item>PLCM</item>
-    <item>DRWI</item>
-    <item>HLIT</item>
-    <item>CRNT</item>
-    <item>NTGR</item>
-    <item>KVHI</item>
-    <item>CMTL</item>
-    <item>GILT</item>
-    <item>COMM</item>
-    <item>ADTN</item>
-    <item>TESS</item>
-    <item>LORL</item>
-    <item>JDSU</item>
-    <item>SHOR</item>
-    <item>AUDC</item>
-    <item>ARRS</item>
-    <item>AVNW</item>
-    <item>MITL</item>
-    <item>VSAT</item>
-    <item>RSYS</item>
-    <item>DAKT</item>
-    <item>EFII</item>
-    <item>SSYS</item>
-    <item>MRCY</item>
-    <item>QUMU</item>
-    <item>OLED</item>
-    <item>USTR</item>
-    <item>PCCC</item>
-    <item>TECD</item>
-    <item>MDLZ</item>
-    <item>IEP</item>
-    <item>PICO</item>
-    <item>NTRI</item>
-    <item>STB</item>
-    <item>XOOM</item>
-    <item>WRLD</item>
-    <item>MGI</item>
-    <item>HAWK</item>
-    <item>SLM</item>
-    <item>NICK</item>
-    <item>ATLC</item>
-    <item>QIWI</item>
-    <item>CACC</item>
-    <item>EZPW</item>
-    <item>NEWS</item>
-    <item>FCFS</item>
-    <item>IBCA</item>
-    <item>VIEW</item>
-    <item>NAVI</item>
-    <item>TAXI</item>
-    <item>SYUT</item>
-    <item>WDC</item>
-    <item>DTLK</item>
-    <item>STX</item>
-    <item>BRCD</item>
-    <item>NTAP</item>
-    <item>SNDK</item>
-    <item>SHLD</item>
-    <item>BONT</item>
-    <item>QDEL</item>
-    <item>TRIB</item>
-    <item>SRDX</item>
-    <item>NEOG</item>
-    <item>IDXX</item>
-    <item>VIVO</item>
-    <item>AMAG</item>
-    <item>TUES</item>
-    <item>COST</item>
-    <item>FRED</item>
-    <item>DLTR</item>
-    <item>ZU</item>
-    <item>PSMT</item>
-    <item>WIFI</item>
-    <item>IGLD</item>
-    <item>EGHT</item>
-    <item>MIFI</item>
-    <item>LMOS</item>
-    <item>BCOM</item>
-    <item>GOGO</item>
-    <item>ORBC</item>
-    <item>HCOM</item>
-    <item>CCOI</item>
-    <item>RRST</item>
-    <item>IRDM</item>
-    <item>SGI</item>
-    <item>CRAY</item>
-    <item>OIIM</item>
-    <item>CTRL</item>
-    <item>HTCH</item>
-    <item>KE</item>
-    <item>SANM</item>
-    <item>SIMO</item>
-    <item>BELFB</item>
-    <item>JST</item>
-    <item>ORBK</item>
-    <item>VICR</item>
-    <item>WIRE</item>
-    <item>MXWL</item>
-    <item>AEIS</item>
-    <item>CBOE</item>
-    <item>NDAQ</item>
-    <item>VPFG</item>
-    <item>KCAP</item>
-    <item>DMLP</item>
-    <item>RAVN</item>
-    <item>ZBRA</item>
-    <item>TWIN</item>
-    <item>MIDD</item>
-    <item>TECU</item>
-    <item>NDSN</item>
-    <item>XONE</item>
-    <item>POWL</item>
-    <item>TERP</item>
-    <item>PEGI</item>
-    <item>MGEE</item>
-    <item>OTTR</item>
-    <item>PETS</item>
-    <item>ALKS</item>
-    <item>IPXL</item>
-    <item>ICPT</item>
-    <item>ITCI</item>
-    <item>TTPH</item>
-    <item>KYTH</item>
-    <item>PCRX</item>
-    <item>SGYP</item>
-    <item>AMPH</item>
-    <item>POZN</item>
-    <item>DEPO</item>
-    <item>ISIS</item>
-    <item>UTHR</item>
-    <item>OREX</item>
-    <item>SCLN</item>
-    <item>ENDP</item>
-    <item>CPIX</item>
-    <item>AUXL</item>
-    <item>HZNP</item>
-    <item>MDCO</item>
-    <item>IRWD</item>
-    <item>AKRX</item>
-    <item>SLXP</item>
-    <item>MYL</item>
-    <item>VSAR</item>
-    <item>MNTA</item>
-    <item>AVNR</item>
-    <item>RIGL</item>
-    <item>KPTI</item>
-    <item>SGNT</item>
-    <item>NBIX</item>
-    <item>STRA</item>
-    <item>TEDU</item>
-    <item>LINC</item>
-    <item>HMHC</item>
-    <item>CPLA</item>
-    <item>LOPE</item>
-    <item>APOL</item>
-    <item>APEI</item>
-    <item>EPAX</item>
-    <item>CECO</item>
-    <item>COCO</item>
-    <item>ABY</item>
-    <item>SPKE</item>
-    <item>SKUL</item>
-    <item>UEIC</item>
-    <item>AAPL</item>
-    <item>CONN</item>
-    <item>LFUS</item>
-    <item>RELL</item>
-    <item>FOXA</item>
-    <item>STRZA</item>
-    <item>VIAB</item>
-    <item>BONA</item>
-    <item>MSG</item>
-    <item>CMCSA</item>
-    <item>ASTE</item>
-    <item>CMCO</item>
-    <item>LMNR</item>
-    <item>CVGW</item>
-    <item>ANDE</item>
-    <item>LNDC</item>
-    <item>SEED</item>
-    <item>ALCO</item>
-    <item>PPC</item>
-    <item>CALM</item>
-    <item>KRFT</item>
-    <item>SAFM</item>
-    <item>LANC</item>
-    <item>CENT</item>
-    <item>CHEF</item>
-    <item>SPTN</item>
-    <item>HAIN</item>
-    <item>CORE</item>
-    <item>UNFI</item>
-    <item>SFBS</item>
-    <item>EWBC</item>
-    <item>BPOP</item>
-    <item>NBCB</item>
-    <item>SGMS</item>
-    <item>MGAM</item>
-    <item>CHDN</item>
-    <item>DGAS</item>
-    <item>CLNE</item>
-    <item>CSTE</item>
-    <item>STCK</item>
-    <item>APOG</item>
-    <item>NTK</item>
-    <item>AAON</item>
-    <item>USLM</item>
-    <item>BECN</item>
-    <item>UFPI</item>
-    <item>MYRG</item>
-    <item>MMYT</item>
-    <item>SFXE</item>
-    <item>RGLD</item>
-    <item>VLGEA</item>
-    <item>SFM</item>
-    <item>TFM</item>
-    <item>WFM</item>
-    <item>IMKTA</item>
-    <item>CASY</item>
-    <item>MGLN</item>
-    <item>ESRX</item>
-    <item>HQY</item>
-    <item>MDSO</item>
-    <item>MDAS</item>
-    <item>OMCL</item>
-    <item>ATHN</item>
-    <item>PINC</item>
-    <item>HSTM</item>
-    <item>MRGE</item>
-    <item>QSII</item>
-    <item>WBMD</item>
-    <item>CERN</item>
-    <item>CPSI</item>
-    <item>AEGN</item>
-    <item>LAYN</item>
-    <item>GLDD</item>
-    <item>PRIM</item>
-    <item>STRL</item>
-    <item>KIRK</item>
-    <item>BBBY</item>
-    <item>AMWD</item>
-    <item>BSET</item>
-    <item>STLY</item>
-    <item>FLXS</item>
-    <item>SCSS</item>
-    <item>HOFT</item>
-    <item>LHCG</item>
-    <item>GTIV</item>
-    <item>ADUS</item>
-    <item>BIOS</item>
-    <item>AMED</item>
-    <item>AFAM</item>
-    <item>TTS</item>
-    <item>BLDR</item>
-    <item>LPNT</item>
-    <item>AMSG</item>
-    <item>LCUT</item>
-    <item>HELE</item>
-    <item>VNOM</item>
-    <item>FXEN</item>
-    <item>ROSE</item>
-    <item>EXXI</item>
-    <item>MCEP</item>
-    <item>MEMP</item>
-    <item>PDCE</item>
-    <item>FANG</item>
-    <item>LNCO</item>
-    <item>ESCR</item>
-    <item>CRZO</item>
-    <item>LINE</item>
-    <item>GPOR</item>
-    <item>WRES</item>
-    <item>TGA</item>
-    <item>PLPC</item>
-    <item>FELE</item>
-    <item>OSIS</item>
-    <item>AMSC</item>
-    <item>LYTS</item>
-    <item>AIMC</item>
-    <item>HOLI</item>
-    <item>SNHY</item>
-    <item>TRS</item>
-    <item>FAST</item>
-    <item>NEWP</item>
-    <item>LAWS</item>
-    <item>PKOH</item>
-    <item>TITN</item>
-    <item>HWCC</item>
-    <item>HDS</item>
-    <item>DXPE</item>
-    <item>ZINC</item>
-    <item>ARLP</item>
-    <item>GSM</item>
-    <item>MORN</item>
-    <item>SYNT</item>
-    <item>NCIT</item>
-    <item>IGTE</item>
-    <item>VNET</item>
-    <item>CDW</item>
-    <item>SYKE</item>
-    <item>UBIC</item>
-    <item>RDWR</item>
-    <item>SABR</item>
-    <item>RVBD</item>
-    <item>EPIQ</item>
-    <item>CTG</item>
-    <item>DMRC</item>
-    <item>VRTU</item>
-    <item>ACXM</item>
-    <item>ERIE</item>
-    <item>EHTH</item>
-    <item>CRVL</item>
-    <item>CISG</item>
-    <item>YNDX</item>
-    <item>YHOO</item>
-    <item>JRJC</item>
-    <item>CNVR</item>
-    <item>JD</item>
-    <item>NAME</item>
-    <item>WWWW</item>
-    <item>WIX</item>
-    <item>LLNW</item>
-    <item>CRTO</item>
-    <item>GOOG</item>
-    <item>VRSN</item>
-    <item>TZOO</item>
-    <item>TRIP</item>
-    <item>AWAY</item>
-    <item>FB</item>
-    <item>BCOR</item>
-    <item>AKAM</item>
-    <item>GRPN</item>
-    <item>CCIH</item>
-    <item>SOHU</item>
-    <item>DATE</item>
-    <item>BIDU</item>
-    <item>PRSS</item>
-    <item>GOOGL</item>
-    <item>BRDR</item>
-    <item>YY</item>
-    <item>WB</item>
-    <item>IACI</item>
-    <item>UNTD</item>
-    <item>SIFY</item>
-    <item>TRUE</item>
-    <item>EQIX</item>
-    <item>TNAV</item>
-    <item>TRAK</item>
-    <item>NTES</item>
-    <item>CKSW</item>
-    <item>SPRT</item>
-    <item>ULTI</item>
-    <item>DRIV</item>
-    <item>SINA</item>
-    <item>XXIA</item>
-    <item>JCOM</item>
-    <item>LONG</item>
-    <item>ANGI</item>
-    <item>INAP</item>
-    <item>QNST</item>
-    <item>LPLA</item>
-    <item>CME</item>
-    <item>COWN</item>
-    <item>AMRK</item>
-    <item>MKTX</item>
-    <item>IBKR</item>
-    <item>ETFC</item>
-    <item>INTL</item>
-    <item>BGCP</item>
-    <item>CTHR</item>
-    <item>NILE</item>
-    <item>NWLI</item>
-    <item>LPHI</item>
-    <item>CTRP</item>
-    <item>HTHT</item>
-    <item>MAR</item>
-    <item>EXPE</item>
-    <item>HMIN</item>
-    <item>GNCMA</item>
-    <item>ENSG</item>
-    <item>PCH</item>
-    <item>PATK</item>
-    <item>HDNG</item>
-    <item>ROLL</item>
-    <item>NNBR</item>
-    <item>AAL</item>
-    <item>SAVE</item>
-    <item>EXPO</item>
-    <item>ICFI</item>
-    <item>HCKT</item>
-    <item>CRAI</item>
-    <item>HURN</item>
-    <item>NCMI</item>
-    <item>AMCN</item>
-    <item>MCHX</item>
-    <item>SALE</item>
-    <item>DXM</item>
-    <item>CTCT</item>
-    <item>WMGI</item>
-    <item>HOLX</item>
-    <item>ARAY</item>
-    <item>SIRO</item>
-    <item>KTWO</item>
-    <item>VASC</item>
-    <item>SPNC</item>
-    <item>ELOS</item>
-    <item>MASI</item>
-    <item>VOLC</item>
-    <item>ZLTQ</item>
-    <item>ISRG</item>
-    <item>ALGN</item>
-    <item>EXAC</item>
-    <item>CYBX</item>
-    <item>PHMD</item>
-    <item>LDRH</item>
-    <item>RTIX</item>
-    <item>CSII</item>
-    <item>LMNS</item>
-    <item>NUVA</item>
-    <item>MAKO</item>
-    <item>CYNO</item>
-    <item>NXTM</item>
-    <item>OFIX</item>
-    <item>CNMD</item>
-    <item>BABY</item>
-    <item>ABMD</item>
-    <item>PDCO</item>
-    <item>HSIC</item>
-    <item>MWIV</item>
-    <item>PODD</item>
-    <item>THOR</item>
-    <item>ANGO</item>
-    <item>ELGX</item>
-    <item>TRNX</item>
-    <item>OSUR</item>
-    <item>MLAB</item>
-    <item>XRAY</item>
-    <item>ICUI</item>
-    <item>ATEC</item>
-    <item>IART</item>
-    <item>MMSI</item>
-    <item>UTMD</item>
-    <item>TRIV</item>
-    <item>HTWR</item>
-    <item>LMNX</item>
-    <item>DXCM</item>
-    <item>ATRI</item>
-    <item>ABAX</item>
-    <item>BRKR</item>
-    <item>ALOG</item>
-    <item>FMI</item>
-    <item>BRLI</item>
-    <item>KANG</item>
-    <item>FLDM</item>
-    <item>PRXL</item>
-    <item>ICLR</item>
-    <item>GHDX</item>
-    <item>PRAH</item>
-    <item>GTLS</item>
-    <item>HAYN</item>
-    <item>SHLO</item>
-    <item>BOOM</item>
-    <item>SQBK</item>
-    <item>RNST</item>
-    <item>BHBK</item>
-    <item>FBNK</item>
-    <item>SFNC</item>
-    <item>FMER</item>
-    <item>GNBC</item>
-    <item>BBCN</item>
-    <item>OPB</item>
-    <item>HOMB</item>
-    <item>TSC</item>
-    <item>SUBK</item>
-    <item>HLSS</item>
-    <item>TREE</item>
-    <item>VRTB</item>
-    <item>ATAX</item>
-    <item>MRLN</item>
-    <item>DWA</item>
-    <item>CKEC</item>
-    <item>AVID</item>
-    <item>RNWK</item>
-    <item>CYOU</item>
-    <item>GIGM</item>
-    <item>GAME</item>
-    <item>ROVI</item>
-    <item>TTWO</item>
-    <item>PWRD</item>
-    <item>EA</item>
-    <item>GLUU</item>
-    <item>NCTY</item>
-    <item>ATVI</item>
-    <item>ZNGA</item>
-    <item>KZ</item>
-    <item>DGII</item>
-    <item>CNTF</item>
-    <item>EXTR</item>
-    <item>SMCI</item>
-    <item>CSCO</item>
-    <item>FNSR</item>
-    <item>BBOX</item>
-    <item>ARUN</item>
-    <item>OPLK</item>
-    <item>ELON</item>
-    <item>SILC</item>
-    <item>AHGP</item>
-    <item>HERO</item>
-    <item>PTEN</item>
-    <item>ORIG</item>
-    <item>LGCY</item>
-    <item>AREX</item>
-    <item>MRD</item>
-    <item>EVEP</item>
-    <item>VNR</item>
-    <item>BBEP</item>
-    <item>REXX</item>
-    <item>EXLP</item>
-    <item>GIFI</item>
-    <item>TGE</item>
-    <item>CCLP</item>
-    <item>TESO</item>
-    <item>GEOS</item>
-    <item>MTRX</item>
-    <item>DWSN</item>
-    <item>MMLP</item>
-    <item>SZYM</item>
-    <item>EROC</item>
-    <item>CLMT</item>
-    <item>REGI</item>
-    <item>MINI</item>
-    <item>SLGN</item>
-    <item>MERC</item>
-    <item>IPAR</item>
-    <item>MTEX</item>
-    <item>NUTR</item>
-    <item>RDEN</item>
-    <item>TAX</item>
-    <item>WOOF</item>
-    <item>STNR</item>
-    <item>SFLY</item>
-    <item>MATW</item>
-    <item>GK</item>
-    <item>GPRO</item>
-    <item>HCCI</item>
-    <item>FTEK</item>
-    <item>ERII</item>
-    <item>PMFG</item>
-    <item>CECE</item>
-    <item>FLEX</item>
-    <item>PLXS</item>
-    <item>TTMI</item>
-    <item>MFLX</item>
-    <item>KBAL</item>
-    <item>LNCE</item>
-    <item>JJSF</item>
-    <item>SENEA</item>
-    <item>SNAK</item>
-    <item>DMND</item>
-    <item>MGPI</item>
-    <item>GMCR</item>
-    <item>SENEB</item>
-    <item>JBSS</item>
-    <item>FARM</item>
-    <item>BDBD</item>
-    <item>SAFT</item>
-    <item>CINF</item>
-    <item>ANAT</item>
-    <item>DGICB</item>
-    <item>SIGI</item>
-    <item>AMSF</item>
-    <item>MHLD</item>
-    <item>AFSI</item>
-    <item>GBLI</item>
-    <item>AGII</item>
-    <item>EMCI</item>
-    <item>STFC</item>
-    <item>SNC</item>
-    <item>NAVG</item>
-    <item>NATL</item>
-    <item>UFCS</item>
-    <item>IPCC</item>
-    <item>ESGR</item>
-    <item>ACGL</item>
-    <item>APSA</item>
-    <item>CSGP</item>
-    <item>Z</item>
-    <item>CRRC</item>
-    <item>SCHL</item>
-    <item>FSTR</item>
-    <item>ARII</item>
-    <item>RAIL</item>
-    <item>STRS</item>
-    <item>LGIH</item>
-    <item>LTRPA</item>
-    <item>FOSL</item>
-    <item>FOXF</item>
-    <item>ACAT</item>
-    <item>AMNB</item>
-    <item>FBNC</item>
-    <item>WSBC</item>
-    <item>SBSI</item>
-    <item>NBBC</item>
-    <item>CHCO</item>
-    <item>FCBC</item>
-    <item>UBSH</item>
-    <item>GBNK</item>
-    <item>UCBI</item>
-    <item>BANR</item>
-    <item>CCBG</item>
-    <item>ABCB</item>
-    <item>LION</item>
-    <item>CFFI</item>
-    <item>SASR</item>
-    <item>TBBK</item>
-    <item>SBNY</item>
-    <item>SUSQ</item>
-    <item>UBSI</item>
-    <item>PWOD</item>
-    <item>BMTC</item>
-    <item>FUNC</item>
-    <item>FNFG</item>
-    <item>FCNCA</item>
-    <item>SHBI</item>
-    <item>TOWN</item>
-    <item>FISI</item>
-    <item>HMPR</item>
-    <item>SBCF</item>
-    <item>SSB</item>
-    <item>WSFS</item>
-    <item>HBOS</item>
-    <item>BUSE</item>
-    <item>HBAN</item>
-    <item>FFBC</item>
-    <item>FBIZ</item>
-    <item>WIBC</item>
-    <item>GABC</item>
-    <item>CHFC</item>
-    <item>FITB</item>
-    <item>TFSL</item>
-    <item>IBCP</item>
-    <item>TAYC</item>
-    <item>MSFG</item>
-    <item>SRCE</item>
-    <item>PVTB</item>
-    <item>WTFC</item>
-    <item>MBWM</item>
-    <item>THFF</item>
-    <item>ONB</item>
-    <item>MBFI</item>
-    <item>CBSH</item>
-    <item>PEBO</item>
-    <item>MCBC</item>
-    <item>LKFN</item>
-    <item>OSBC</item>
-    <item>FRME</item>
-    <item>FMBI</item>
-    <item>ASBC</item>
-    <item>CUBI</item>
-    <item>UVSP</item>
-    <item>METR</item>
-    <item>FNLC</item>
-    <item>HTBI</item>
-    <item>SNBC</item>
-    <item>BDGE</item>
-    <item>NFBK</item>
-    <item>STBA</item>
-    <item>CNBKA</item>
-    <item>CNOB</item>
-    <item>ORIT</item>
-    <item>LBAI</item>
-    <item>WFD</item>
-    <item>HBNC</item>
-    <item>CAC</item>
-    <item>BNCL</item>
-    <item>BPFH</item>
-    <item>CBNJ</item>
-    <item>FULT</item>
-    <item>NBTB</item>
-    <item>AROW</item>
-    <item>MBTF</item>
-    <item>INDB</item>
-    <item>HWBK</item>
-    <item>PGC</item>
-    <item>WASH</item>
-    <item>TRST</item>
-    <item>CCNE</item>
-    <item>MBVT</item>
-    <item>PFIS</item>
-    <item>NPBC</item>
-    <item>UMPQ</item>
-    <item>PPBI</item>
-    <item>GBCI</item>
-    <item>PCBK</item>
-    <item>FFNW</item>
-    <item>ZION</item>
-    <item>AMRB</item>
-    <item>HFWA</item>
-    <item>HTBK</item>
-    <item>PMBC</item>
-    <item>WABC</item>
-    <item>BSRR</item>
-    <item>BBNK</item>
-    <item>PFBC</item>
-    <item>FIBK</item>
-    <item>UBFO</item>
-    <item>PACW</item>
-    <item>TBNK</item>
-    <item>NRIM</item>
-    <item>CATY</item>
-    <item>CHMG</item>
-    <item>SIVB</item>
-    <item>HAFC</item>
-    <item>TCBK</item>
-    <item>CVBF</item>
-    <item>CTBI</item>
-    <item>SYBT</item>
-    <item>IBTX</item>
-    <item>FRNK</item>
-    <item>CFNL</item>
-    <item>TRMK</item>
-    <item>BKYF</item>
-    <item>FFKT</item>
-    <item>CBF</item>
-    <item>PNFP</item>
-    <item>HBHC</item>
-    <item>EVBS</item>
-    <item>PSTB</item>
-    <item>OZRK</item>
-    <item>IBKC</item>
-    <item>CSFL</item>
-    <item>RBCAA</item>
-    <item>SGBK</item>
-    <item>GSBC</item>
-    <item>FFIN</item>
-    <item>UMBF</item>
-    <item>HTLF</item>
-    <item>OKSB</item>
-    <item>TBK</item>
-    <item>IBOC</item>
-    <item>WTBA</item>
-    <item>BANF</item>
-    <item>COBZ</item>
-    <item>MOFG</item>
-    <item>OABC</item>
-    <item>BOKF</item>
-    <item>TCBI</item>
-    <item>EFSC</item>
-    <item>SKYW</item>
-    <item>RJET</item>
-    <item>JBLU</item>
-    <item>ALGT</item>
-    <item>VA</item>
-    <item>HA</item>
-    <item>GLPI</item>
-    <item>ARCP</item>
-    <item>LAMR</item>
-    <item>GOOD</item>
-    <item>MTGE</item>
-    <item>CONE</item>
-    <item>HCT</item>
-    <item>SBRA</item>
-    <item>UDF</item>
-    <item>NYMT</item>
-    <item>AGNC</item>
-    <item>ROIC</item>
-    <item>CAR</item>
-    <item>HEES</item>
-    <item>UHAL</item>
-    <item>MGRC</item>
-    <item>SBAC</item>
-    <item>ELRC</item>
-    <item>FORR</item>
-    <item>INCR</item>
-    <item>QGEN</item>
-    <item>MYGN</item>
-    <item>NRCIB</item>
-    <item>AVHI</item>
-    <item>CVCO</item>
-    <item>WYNN</item>
-    <item>ISLE</item>
-    <item>CACQ</item>
-    <item>ERI</item>
-    <item>CZR</item>
-    <item>PENN</item>
-    <item>MCRI</item>
-    <item>MPEL</item>
-    <item>DFRG</item>
-    <item>NATH</item>
-    <item>RRGB</item>
-    <item>RUTH</item>
-    <item>BBRG</item>
-    <item>FRGI</item>
-    <item>BWLD</item>
-    <item>BOBE</item>
-    <item>SONC</item>
-    <item>DAVE</item>
-    <item>TXRH</item>
-    <item>WEN</item>
-    <item>JACK</item>
-    <item>LOCO</item>
-    <item>IRG</item>
-    <item>CBRL</item>
-    <item>DNKN</item>
-    <item>CHUY</item>
-    <item>BJRI</item>
-    <item>CAKE</item>
-    <item>TAST</item>
-    <item>PLKI</item>
-    <item>NDLS</item>
-    <item>BLMN</item>
-    <item>AEPI</item>
-    <item>GT</item>
-    <item>OCFC</item>
-    <item>BKMU</item>
-    <item>HCBK</item>
-    <item>FFIC</item>
-    <item>EBTC</item>
-    <item>HBCP</item>
-    <item>BFIN</item>
-    <item>WSBF</item>
-    <item>BOFI</item>
-    <item>FXCB</item>
-    <item>NWBI</item>
-    <item>PULB</item>
-    <item>HMST</item>
-    <item>SMPL</item>
-    <item>FSBK</item>
-    <item>ESSA</item>
-    <item>COLB</item>
-    <item>ABCW</item>
-    <item>WAFD</item>
-    <item>EBSB</item>
-    <item>FDEF</item>
-    <item>ESBF</item>
-    <item>UBNK</item>
-    <item>BRKL</item>
-    <item>UCFC</item>
-    <item>CSBK</item>
-    <item>CFFN</item>
-    <item>KRNY</item>
-    <item>RVSB</item>
-    <item>PROV</item>
-    <item>ISBC</item>
-    <item>DCOM</item>
-    <item>PBCT</item>
-    <item>CASH</item>
-    <item>MKSI</item>
-    <item>CGNX</item>
-    <item>FARO</item>
-    <item>ITRI</item>
-    <item>GRMN</item>
-    <item>MIND</item>
-    <item>COHR</item>
-    <item>HURC</item>
-    <item>RSTI</item>
-    <item>MTSC</item>
-    <item>FLIR</item>
-    <item>AFFX</item>
-    <item>FEIC</item>
-    <item>CPHD</item>
-    <item>ASEI</item>
-    <item>GSIG</item>
-    <item>TRMB</item>
-    <item>NSSC</item>
-    <item>ASCMA</item>
-    <item>LOJN</item>
-    <item>KTOS</item>
-    <item>SYMC</item>
-    <item>CHKP</item>
-    <item>ASIA</item>
-    <item>MANT</item>
-    <item>MLNX</item>
-    <item>CY</item>
-    <item>AVGO</item>
-    <item>ATML</item>
-    <item>ENTR</item>
-    <item>MXIM</item>
-    <item>NXPI</item>
-    <item>FORM</item>
-    <item>GSIT</item>
-    <item>SIMG</item>
-    <item>KOPN</item>
-    <item>INTC</item>
-    <item>CAVM</item>
-    <item>ISIL</item>
-    <item>ONNN</item>
-    <item>IDTI</item>
-    <item>MTSI</item>
-    <item>TXN</item>
-    <item>POWI</item>
-    <item>MRVL</item>
-    <item>BRCM</item>
-    <item>ADI</item>
-    <item>SMTC</item>
-    <item>ESIO</item>
-    <item>EZCH</item>
-    <item>MSCC</item>
-    <item>TQNT</item>
-    <item>CCMP</item>
-    <item>DSPG</item>
-    <item>ADNC</item>
-    <item>TSEM</item>
-    <item>PMCS</item>
-    <item>RFMD</item>
-    <item>PSMI</item>
-    <item>AXTI</item>
-    <item>QLGC</item>
-    <item>SLAB</item>
-    <item>MCRL</item>
-    <item>PSEM</item>
-    <item>SWKS</item>
-    <item>XLNX</item>
-    <item>ANAD</item>
-    <item>AMKR</item>
-    <item>DIOD</item>
-    <item>AMCC</item>
-    <item>CSUN</item>
-    <item>MOSY</item>
-    <item>OVTI</item>
-    <item>FCS</item>
-    <item>CRUS</item>
-    <item>FSLR</item>
-    <item>ALTR</item>
-    <item>ACTS</item>
-    <item>SCTY</item>
-    <item>AOSL</item>
-    <item>IXYS</item>
-    <item>HSOL</item>
-    <item>SPWR</item>
-    <item>HIMX</item>
-    <item>CEVA</item>
-    <item>LSCC</item>
-    <item>CSIQ</item>
-    <item>UCTT</item>
-    <item>MCHP</item>
-    <item>SIGM</item>
-    <item>LLTC</item>
-    <item>NVDA</item>
-    <item>MPWR</item>
-    <item>JASO</item>
-    <item>NVMI</item>
-    <item>UTEK</item>
-    <item>XCRA</item>
-    <item>ACLS</item>
-    <item>VECO</item>
-    <item>AMBA</item>
-    <item>RBCN</item>
-    <item>NANO</item>
-    <item>ASYS</item>
-    <item>CREE</item>
-    <item>ENTG</item>
-    <item>BRKS</item>
-    <item>KLIC</item>
-    <item>SNPS</item>
-    <item>AMAT</item>
-    <item>MTSN</item>
-    <item>LRCX</item>
-    <item>COHU</item>
-    <item>PLAB</item>
-    <item>TSRA</item>
-    <item>OCLR</item>
-    <item>KLAC</item>
-    <item>IPGP</item>
-    <item>LEDS</item>
-    <item>SEMI</item>
-    <item>MU</item>
-    <item>RMBS</item>
-    <item>ISSI</item>
-    <item>GASS</item>
-    <item>DCIX</item>
-    <item>TOPS</item>
-    <item>VLCCF</item>
-    <item>SBLK</item>
-    <item>EGLE</item>
-    <item>GLNG</item>
-    <item>DRYS</item>
-    <item>DLNG</item>
-    <item>ULTR</item>
-    <item>ESEA</item>
-    <item>CPLP</item>
-    <item>SSRI</item>
-    <item>LECO</item>
-    <item>IPCM</item>
-    <item>PRSC</item>
-    <item>ACHC</item>
-    <item>BEAT</item>
-    <item>HWAY</item>
-    <item>AMRS</item>
-    <item>GURE</item>
-    <item>WDFC</item>
-    <item>IPHS</item>
-    <item>SIAL</item>
-    <item>GPRE</item>
-    <item>HWKN</item>
-    <item>MEOH</item>
-    <item>PZZA</item>
-    <item>FRSH</item>
-    <item>SBUX</item>
-    <item>PBPB</item>
-    <item>PNRA</item>
-    <item>MCOX</item>
-    <item>ZUMZ</item>
-    <item>MFRM</item>
-    <item>BAMM</item>
-    <item>ODP</item>
-    <item>CNV</item>
-    <item>EBAY</item>
-    <item>PETM</item>
-    <item>WMAR</item>
-    <item>FLWS</item>
-    <item>FIVE</item>
-    <item>PTRY</item>
-    <item>FINL</item>
-    <item>ZAGG</item>
-    <item>MIK</item>
-    <item>FTD</item>
-    <item>VITC</item>
-    <item>SPLS</item>
-    <item>ULTA</item>
-    <item>TSCO</item>
-    <item>RCII</item>
-    <item>HSNI</item>
-    <item>OUTR</item>
-    <item>ISCA</item>
-    <item>POOL</item>
-    <item>BDE</item>
-    <item>SPWH</item>
-    <item>JOUT</item>
-    <item>HIBB</item>
-    <item>BGFV</item>
-    <item>HSII</item>
-    <item>HSON</item>
-    <item>KELYA</item>
-    <item>RECN</item>
-    <item>KFRC</item>
-    <item>BBSI</item>
-    <item>CCRN</item>
-    <item>PAYX</item>
-    <item>JOBS</item>
-    <item>ZEUS</item>
-    <item>STLD</item>
-    <item>SCHN</item>
-    <item>ROCK</item>
-    <item>NWPX</item>
-    <item>USAP</item>
-    <item>CHOP</item>
-    <item>IIIN</item>
-    <item>AMBC</item>
-    <item>ITIC</item>
-    <item>MENT</item>
-    <item>PDFS</item>
-    <item>NATI</item>
-    <item>ADSK</item>
-    <item>ACIW</item>
-    <item>SCSC</item>
-    <item>VRNS</item>
-    <item>CNQR</item>
-    <item>PTC</item>
-    <item>VSEC</item>
-    <item>TTEK</item>
-    <item>ATNI</item>
-    <item>WIN</item>
-    <item>SHEN</item>
-    <item>ALSK</item>
-    <item>ELNK</item>
-    <item>FTR</item>
-    <item>CNSL</item>
-    <item>IPAS</item>
-    <item>COLM</item>
-    <item>PERY</item>
-    <item>GIII</item>
-    <item>LULU</item>
-    <item>EDS</item>
-    <item>WEYS</item>
-    <item>ICON</item>
-    <item>VRA</item>
-    <item>SHOO</item>
-    <item>RCKY</item>
-    <item>CROX</item>
-    <item>TILE</item>
-    <item>HAS</item>
-    <item>JAKK</item>
-    <item>MAT</item>
-    <item>USAK</item>
-    <item>YRCW</item>
-    <item>FRPH</item>
-    <item>ARCB</item>
-    <item>WERN</item>
-    <item>PATR</item>
-    <item>ECHO</item>
-    <item>LSTR</item>
-    <item>HTLD</item>
-    <item>CVTI</item>
-    <item>JBHT</item>
-    <item>MRTN</item>
-    <item>UACL</item>
-    <item>SAIA</item>
-    <item>ODFL</item>
-    <item>KLXIV</item>
-    <item>SPAR</item>
-    <item>PCAR</item>
-    <item>CWST</item>
-    <item>ECOL</item>
-    <item>SRCL</item>
-    <item>MSEX</item>
-    <item>ARTNA</item>
-    <item>YORW</item>
-    <item>CWCO</item>
-    <item>CTWS</item>
-    <item>RNET</item>
-    <item>UBNT</item>
-    <item>IQNT</item>
-    <item>CAMP</item>
-    <item>PCTI</item>
-    <item>PTNR</item>
-    <item>NTLS</item>
-    <item>IDCC</item>
-    <item>VIP</item>
-    <item>UTSI</item>
-    <item>SPOK</item>
-    <item>ASML</item>
-    <item>ZIONW</item>
-    <item>FSRV</item>
-    <item>GCOM</item>
-    <item>LBRDA</item>
-    <item>SPRD</item>
-    <item>BPFHW</item>
-    <item>WCRX</item>
-    <item>ROICU</item>
-    <item>ESCRP</item>
-    <item>CMFN</item>
-    <item>GLAD</item>
-    <item>ARCPP</item>
-    <item>CHDX</item>
-    <item>WHFBL</item>
-    <item>SHLDZ</item>
-    <item>COGO</item>
-    <item>GRFS</item>
-    <item>ZOLT</item>
-    <item>LMCB</item>
-    <item>SBLKL</item>
-    <item>OFS</item>
-    <item>STEI</item>
-    <item>NWS</item>
-    <item>GOLD</item>
-    <item>BMC</item>
-    <item>VOD</item>
-    <item>ZIONZ</item>
-    <item>MHLDO</item>
-    <item>ABDC</item>
-    <item>EMITF</item>
-    <item>OHAI</item>
-    <item>TWGP</item>
-    <item>BANFP</item>
-    <item>TCPC</item>
-    <item>XRTX</item>
-    <item>PACT</item>
-    <item>KMDA</item>
-    <item>HITT</item>
-    <item>CRESY</item>
-    <item>LOGI</item>
-    <item>DNDN</item>
-    <item>XTXI</item>
-    <item>STEC</item>
-    <item>VOCS</item>
-    <item>FSAM</item>
-    <item>WHF</item>
-    <item>UNTDV</item>
-    <item>FFEX</item>
-    <item>SRSC</item>
-    <item>SPIL</item>
-    <item>YONG</item>
-    <item>AIXG</item>
-    <item>CNBC</item>
-    <item>GAGA</item>
-    <item>ACSF</item>
-    <item>NICE</item>
-    <item>IDIX</item>
-    <item>ONXX</item>
-    <item>NRCIA</item>
-    <item>BANX</item>
-    <item>GSJK</item>
-    <item>SUPX</item>
-    <item>BPOPN</item>
-    <item>ITRN</item>
-    <item>WCBOD</item>
-    <item>VCBI</item>
-    <item>KEYN</item>
-    <item>SBNYW</item>
-    <item>LTRPB</item>
-    <item>GOODN</item>
-    <item>SNTS</item>
-    <item>STRZB</item>
-    <item>DSKY</item>
-    <item>NVTL</item>
-    <item>MDCI</item>
-    <item>LGCYP</item>
-    <item>KFX</item>
-    <item>SLMBP</item>
-    <item>JOSB</item>
-    <item>FITBI</item>
-    <item>FFBCW</item>
-    <item>ANEN</item>
-    <item>NIHD</item>
-    <item>SHFL</item>
-    <item>RYAAY</item>
-    <item>OXLCN</item>
-    <item>ASBCW</item>
-    <item>VTNC</item>
-    <item>OPTR</item>
-    <item>ERIC</item>
-    <item>USMO</item>
-    <item>FBMI</item>
-    <item>SLMAP</item>
-    <item>LSI</item>
-    <item>TCBIW</item>
-    <item>AGNCB</item>
-    <item>ARTC</item>
-    <item>PSEC</item>
-    <item>CADX</item>
-    <item>INTLL</item>
-    <item>HKTV</item>
-    <item>KELYB</item>
-    <item>GARS</item>
-    <item>PHIIK</item>
-    <item>QCOR</item>
-    <item>TWTC</item>
-    <item>OXLCP</item>
-    <item>DFZ</item>
-    <item>TECUA</item>
-    <item>RUSHA</item>
-    <item>ITMN</item>
-    <item>GLADP</item>
-    <item>SYMM</item>
-    <item>JRCC</item>
-    <item>GAINP</item>
-    <item>PLAY</item>
-    <item>NOVB</item>
-    <item>SWIR</item>
-    <item>RCKB</item>
-    <item>GAIN</item>
-    <item>CGO</item>
-    <item>VNRAP</item>
-    <item>LTXC</item>
-    <item>VLTR</item>
-    <item>BELFA</item>
-    <item>GOODP</item>
-    <item>FDUS</item>
-    <item>TRLG</item>
-    <item>ARMH</item>
-    <item>ICGE</item>
-    <item>QVCB</item>
-    <item>VVTV</item>
-    <item>CMCSK</item>
-    <item>BPFHP</item>
-    <item>LBRKR</item>
-    <item>QADB</item>
-    <item>MOLX</item>
-    <item>SP</item>
-    <item>STEL</item>
-    <item>FWLT</item>
-    <item>OXLCO</item>
-    <item>ZIGO</item>
-    <item>DSGX</item>
-    <item>ENVE</item>
-    <item>SHLDR</item>
-    <item>OSBCP</item>
-    <item>AMBCW</item>
-    <item>TCBIP</item>
-    <item>TAYCP</item>
-    <item>MOVE</item>
-    <item>LCAV</item>
-    <item>GIVN</item>
-    <item>TCRD</item>
-    <item>LBTYB</item>
-    <item>FIRE</item>
-    <item>SVVC</item>
-    <item>STKL</item>
-    <item>WBCO</item>
-    <item>ASMI</item>
-    <item>ASTX</item>
-    <item>KBALB</item>
-    <item>TECUB</item>
-    <item>WTFCW</item>
-    <item>NCLH</item>
-    <item>SHLDW</item>
-    <item>ESLT</item>
-    <item>BANCL</item>
-    <item>FOX</item>
-    <item>WAFDW</item>
-    <item>GLADO</item>
-    <item>ASCA</item>
-    <item>PMTC</item>
-    <item>FUND</item>
-    <item>EXFO</item>
-    <item>FSFR</item>
-    <item>TLAB</item>
-    <item>WSFSL</item>
-    <item>ABFS</item>
-    <item>PAAS</item>
-    <item>ROICW</item>
-    <item>BOLT</item>
-    <item>DGICA</item>
-    <item>OTIC</item>
-    <item>WILN</item>
-    <item>AINV</item>
-    <item>VIA</item>
-    <item>MRCC</item>
-    <item>VELT</item>
-    <item>NTRSP</item>
-    <item>NAFC</item>
-    <item>SIVBO</item>
-    <item>SBRAP</item>
-    <item>CBEY</item>
-    <item>OPEN</item>
-    <item>MSPD</item>
-    <item>FURX</item>
-    <item>SUNS</item>
-    <item>HOME</item>
-    <item>CHY</item>
-    <item>HBANP</item>
-    <item>DBVT</item>
-    <item>GOODO</item>
-    <item>PFLT</item>
-    <item>RUE</item>
-    <item>SHLDV</item>
-    <item>DLLR</item>
-    <item>AMOV</item>
-    <item>LVNTB</item>
-    <item>BBEPP</item>
-    <item>FSC</item>
-    <item>MDCA</item>
-    <item>AGNCP</item>
-    <item>VNRCP</item>
-    <item>CSQ</item>
-    <item>LEAP</item>
-    <item>FSCI</item>
-    <item>CTRE</item>
-    <item>SCAI</item>
-    <item>CBSTZ</item>
-    <item>MNTG</item>
-    <item>SIEN</item>
-    <item>VWR</item>
-    <item>OXLC</item>
-    <item>MCRS</item>
-    <item>HAWKB</item>
-    <item>CHI</item>
-    <item>EIHI</item>
-    <item>BPOPM</item>
-    <item>SLRC</item>
-    <item>MTGEP</item>
-    <item>CENTA</item>
-    <item>ATMI</item>
-    <item>MBFIP</item>
-    <item>FMFC</item>
-    <item>DISCK</item>
-    <item>FXENP</item>
-    <item>GBDC</item>
-    <item>VPRT</item>
-    <item>MONT</item>
-    <item>MAXY</item>
-    <item>OMAB</item>
-    <item>GMLP</item>
-    <item>QQQX</item>
-    <item>LBTYK</item>
-    <item>FUBC</item>
-    <item>PACR</item>
-    <item>DBLEP</item>
-    <item>BKCC</item>
-    <item>FSCFL</item>
-    <item>LMCKV</item>
-    <item>ROMA</item>
-    <item>CTREV</item>
-    <item>MEAS</item>
-    <item>DISCB</item>
-    <item>VNRBP</item>
-    <item>HITK</item>
-    <item>CPTA</item>
-    <item>PVTBP</item>
-    <item>WPPGY</item>
-    <item>ATRA</item>
-    <item>RDA</item>
-    <item>EMMSP</item>
-    <item>LMCK</item>
-    <item>HTCO</item>
-    <item>SLMVV</item>
-    <item>SMT</item>
-    <item>ACCL</item>
-    <item>LGCYO</item>
-    <item>ABGB</item>
-    <item>NGPC</item>
-    <item>SHPG</item>
-    <item>XTEX</item>
-    <item>CSRE</item>
-    <item>APFC</item>
-    <item>CRESW</item>
-    <item>TCBIL</item>
-    <item>ARCC</item>
-    <item>PNNT</item>
-    <item>CBSHP</item>
-    <item>RIMG</item>
-    <item>BBRY</item>
-    <item>GTAT</item>
-    <item>CUBIL</item>
+        <item>AAL American Airlines Group Inc.</item>
+        <item>AAON AAON Inc.</item>
+        <item>AAPL Apple Inc.</item>
+        <item>AAWW Atlas Air Worldwide Holdings, Inc.</item>
+        <item>ABAX Abaxis, Inc.</item>
+        <item>ABCB Ameris Bancorp</item>
+        <item>ABCO The Advisory Board Company</item>
+        <item>ABCW Anchor BanCorp Wisconsin Inc.</item>
+        <item>ABDC Alcentra Capital Corp.</item>
+        <item>ABFS Arkansas Best Corporation</item>
+        <item>ABGB Abengoa SA</item>
+        <item>ABMD ABIOMED, Inc.</item>
+        <item>ABY Abengoa Yield plc</item>
+        <item>ACAD ACADIA Pharmaceuticals Inc.</item>
+        <item>ACAS American Capital, Ltd.</item>
+        <item>ACAT Arctic Cat Inc.</item>
+        <item>ACCL Accelrys Inc.</item>
+        <item>ACET Aceto Corp.</item>
+        <item>ACGL Arch Capital Group Ltd.</item>
+        <item>ACHC Acadia Healthcare Company, Inc.</item>
+        <item>ACHN Achillion Pharmaceuticals, Inc.</item>
+        <item>ACIW ACI Worldwide, Inc.</item>
+        <item>ACLS Axcelis Technologies Inc.</item>
+        <item>ACOR Acorda Therapeutics, Inc.</item>
+        <item>ACSF American Capital Senior Floatin</item>
+        <item>ACTA Actua Corporation</item>
+        <item>ACTG Acacia Research Corporation</item>
+        <item>ACTS Actions Semiconductor Co., Ltd.</item>
+        <item>ACXM Acxiom Corporation</item>
+        <item>ADBE Adobe Systems Inc.</item>
+        <item>ADI Analog Devices, Inc.</item>
+        <item>ADNC Audience, Inc.</item>
+        <item>ADP Automatic Data Processing, Inc.</item>
+        <item>ADSK Autodesk, Inc.</item>
+        <item>ADTN ADTRAN Inc.</item>
+        <item>ADUS Addus HomeCare Corporation</item>
+        <item>ADVS Advent Software, Inc.</item>
+        <item>AEGN Aegion Corporation</item>
+        <item>AEGR Aegerion Pharmaceuticals, Inc.</item>
+        <item>AEIS Advanced Energy Industries, Inc.</item>
+        <item>AEPI AEP Industries Inc.</item>
+        <item>AFAM Almost Family Inc.</item>
+        <item>AFFX Affymetrix Inc.</item>
+        <item>AFSI AmTrust Financial Services, Inc.</item>
+        <item>AGII Argo Group International Holdings, Ltd.</item>
+        <item>AGIO Agios Pharmaceuticals, Inc.</item>
+        <item>AGNC American Capital Agency Corp.</item>
+        <item>AGNCB American Capital Agency Corp.</item>
+        <item>AGNCP American Capital Agency Corp.</item>
+        <item>AGYS Agilysys Inc.</item>
+        <item>AHGP Alliance Holdings GP, L.P.</item>
+        <item>AIMC Altra Industrial Motion Corp.</item>
+        <item>AINV Apollo Investment Corporation</item>
+        <item>AIRM Air Methods Corp.</item>
+        <item>AIXG Aixtron SE</item>
+        <item>AKAM Akamai Technologies, Inc.</item>
+        <item>AKRX Akorn, Inc.</item>
+        <item>ALCO Alico Inc.</item>
+        <item>ALGN Align Technology Inc.</item>
+        <item>ALGT Allegiant Travel Company</item>
+        <item>ALKS Alkermes plc</item>
+        <item>ALLT Allot Communications Ltd.</item>
+        <item>ALNY Alnylam Pharmaceuticals, Inc.</item>
+        <item>ALOG Analogic Corporation</item>
+        <item>ALSK Alaska Communications Systems Group Inc.</item>
+        <item>ALTR Altera Corp.</item>
+        <item>ALXN Alexion Pharmaceuticals, Inc.</item>
+        <item>AMAG AMAG Pharmaceuticals, Inc.</item>
+        <item>AMAP AutoNavi Holdings Limited</item>
+        <item>AMAT Applied Materials, Inc.</item>
+        <item>AMBA Ambarella, Inc.</item>
+        <item>AMBC Ambac Financial Group, Inc.</item>
+        <item>AMBCW Ambac Financial Group, Inc.</item>
+        <item>AMCC Applied Micro Circuits Corporation</item>
+        <item>AMCN AirMedia Group Inc.</item>
+        <item>AMCX AMC Networks Inc.</item>
+        <item>AMED Amedisys Inc.</item>
+        <item>AMGN Amgen Inc.</item>
+        <item>AMKR Amkor Technology, Inc.</item>
+        <item>AMNB American National Bankshares Inc.</item>
+        <item>AMOV America Movil S.A.B. de C.V.</item>
+        <item>AMPH Amphastar Pharmaceuticals, Inc.</item>
+        <item>AMRB American River Bankshares</item>
+        <item>AMRI Albany Molecular Research Inc.</item>
+        <item>AMRK A-Mark Precious Metals, Inc.</item>
+        <item>AMRS Amyris, Inc.</item>
+        <item>AMSC American Superconductor Corporation</item>
+        <item>AMSF Amerisafe, Inc.</item>
+        <item>AMSG AmSurg Corp.</item>
+        <item>AMSWA American Software, Inc.</item>
+        <item>AMWD American Woodmark Corp.</item>
+        <item>AMZN Amazon.com Inc.</item>
+        <item>ANAD Anadigics, Inc.</item>
+        <item>ANAT American National Insurance Co.</item>
+        <item>ANDE The Andersons, Inc.</item>
+        <item>ANEN Anaren, Inc.</item>
+        <item>ANGI Angie\'s List, Inc.</item>
+        <item>ANGO AngioDynamics Inc.</item>
+        <item>ANIK Anika Therapeutics Inc.</item>
+        <item>ANSS Ansys, Inc.</item>
+        <item>AOSL Alpha \u0026 Omega Semiconductor, Ltd.</item>
+        <item>APEI American Public Education, Inc.</item>
+        <item>APFC American Pacific Corporation</item>
+        <item>APOG Apogee Enterprises, Inc.</item>
+        <item>APOL Apollo Education Group, Inc.</item>
+        <item>APSA Alto Palermo S.A.</item>
+        <item>ARAY Accuray Incorporated</item>
+        <item>ARCB ArcBest Corporation</item>
+        <item>ARCC Ares Capital Corporation</item>
+        <item>ARCP American Realty Capital Properties, Inc.</item>
+        <item>ARCPP American Realty Capital Properties, Inc.</item>
+        <item>AREX Approach Resources, Inc.</item>
+        <item>ARIA Ariad Pharmaceuticals Inc.</item>
+        <item>ARII American Railcar Industries, Inc.</item>
+        <item>ARLP Alliance Resource Partners LP</item>
+        <item>ARMH ARM Holdings plc</item>
+        <item>ARNA Arena Pharmaceuticals, Inc.</item>
+        <item>AROW Arrow Financial Corporation</item>
+        <item>ARRS ARRIS Group, Inc.</item>
+        <item>ARTC ArthroCare Corporation</item>
+        <item>ARTNA Artesian Resources Corp.</item>
+        <item>ARUN Aruba Networks, Inc.</item>
+        <item>ARWR Arrowhead Research Corp.</item>
+        <item>ASBC Associated Banc-Corp</item>
+        <item>ASBCW Associated Banc-Corp</item>
+        <item>ASCA Ameristar Casinos Inc.</item>
+        <item>ASCMA Ascent Capital Group, Inc.</item>
+        <item>ASEI American Science \u0026 Engineering Inc.</item>
+        <item>ASFI Asta Funding Inc.</item>
+        <item>ASIA AsiaInfo-Linkage, Inc.</item>
+        <item>ASMI ASM International NV</item>
+        <item>ASML ASML Holding NV</item>
+        <item>ASNA Ascena Retail Group Inc.</item>
+        <item>ASPS Altisource Portfolio Solutions S.A.</item>
+        <item>ASTE Astec Industries, Inc.</item>
+        <item>ASTX Astex Pharmaceuticals, Inc.</item>
+        <item>ASYS Amtech Systems Inc.</item>
+        <item>ATAX America First Multifamily Investors, L.P.</item>
+        <item>ATEC Alphatec Holdings, Inc.</item>
+        <item>ATHN athenahealth, Inc.</item>
+        <item>ATLC Atlanticus Holdings Corporation</item>
+        <item>ATMI ATMI Inc.</item>
+        <item>ATML Atmel Corporation</item>
+        <item>ATNI Atlantic Tele-Network, Inc.</item>
+        <item>ATRA Atara Biotherapeutics, Inc.</item>
+        <item>ATRI ATRION Corp.</item>
+        <item>ATRO Astronics Corporation</item>
+        <item>ATSG Air Transport Services Group, Inc.</item>
+        <item>ATVI Activision Blizzard, Inc.</item>
+        <item>AUDC AudioCodes Ltd.</item>
+        <item>AUXL Auxilium Pharmaceuticals Inc.</item>
+        <item>AVAV AeroVironment, Inc.</item>
+        <item>AVEO AVEO Pharmaceuticals, Inc.</item>
+        <item>AVGO Avago Technologies Limited</item>
+        <item>AVHI AV Homes, Inc.</item>
+        <item>AVID Avid Technology, Inc.</item>
+        <item>AVNR Avanir Pharmaceuticals, Inc.</item>
+        <item>AVNW Aviat Networks, Inc.</item>
+        <item>AWAY HomeAway, Inc.</item>
+        <item>AXTI AXT Inc.</item>
+        <item>AZPN Aspen Technology, Inc.</item>
+        <item>BABY Natus Medical Inc.</item>
+        <item>BAMM Books-A-Million Inc.</item>
+        <item>BANCL Banc of California, Inc.</item>
+        <item>BANF BancFirst Corporation</item>
+        <item>BANFP BancFirst Corporation</item>
+        <item>BANR Banner Corporation</item>
+        <item>BANX StoneCastle Financial Corp.</item>
+        <item>BBBY Bed Bath \u0026 Beyond Inc.</item>
+        <item>BBCN BBCN Bancorp, Inc.</item>
+        <item>BBEP Breitburn Energy Partners L.P.</item>
+        <item>BBEPP Breitburn Energy Partners L.P.</item>
+        <item>BBNK Bridge Capital Holdings</item>
+        <item>BBOX Black Box Corporation</item>
+        <item>BBRG Bravo Brio Restaurant Group, Inc.</item>
+        <item>BBRY BlackBerry Limited</item>
+        <item>BBSI Barrett Business Services Inc.</item>
+        <item>BCOM B Communications Ltd</item>
+        <item>BCOR Blucora, Inc.</item>
+        <item>BCOV Brightcove, Inc.</item>
+        <item>BCPC Balchem Corp.</item>
+        <item>BCRX BioCryst Pharmaceuticals, Inc.</item>
+        <item>BDBD Boulder Brands, Inc.</item>
+        <item>BDE Black Diamond, Inc.</item>
+        <item>BDGE Bridge Bancorp, Inc.</item>
+        <item>BEAT BioTelemetry, Inc.</item>
+        <item>BEAV B/E Aerospace Inc.</item>
+        <item>BEBE Bebe Stores, Inc.</item>
+        <item>BECN Beacon Roofing Supply, Inc.</item>
+        <item>BELFA Bel Fuse Inc.</item>
+        <item>BELFB Bel Fuse Inc.</item>
+        <item>BFIN BankFinancial Corp.</item>
+        <item>BGCP BGC Partners, Inc.</item>
+        <item>BGFV Big 5 Sporting Goods Corp.</item>
+        <item>BHBK Hyde Park Bancorp, MHC</item>
+        <item>BIDU Baidu, Inc.</item>
+        <item>BIIB Biogen Idec Inc.</item>
+        <item>BIND BIND Therapeutics, Inc.</item>
+        <item>BIOS BioScrip Inc.</item>
+        <item>BIRT Actuate Corporation</item>
+        <item>BJRI BJ\'s Restaurants, Inc.</item>
+        <item>BKCC BlackRock Kelso Capital Corporation</item>
+        <item>BKMU Bank Mutual Corporation</item>
+        <item>BKYF The Bank of Kentucky Financial Corporation</item>
+        <item>BLDR Builders FirstSource, Inc.</item>
+        <item>BLKB Blackbaud Inc.</item>
+        <item>BLMN Bloomin\' Brands, Inc.</item>
+        <item>BLUE bluebird bio, Inc.</item>
+        <item>BMC BMC Software Inc.</item>
+        <item>BMRN BioMarin Pharmaceutical Inc.</item>
+        <item>BMTC Bryn Mawr Bank Corp.</item>
+        <item>BNCL Beneficial Mutual Bancorp Inc.</item>
+        <item>BOBE Bob Evans Farms, Inc.</item>
+        <item>BOFI BofI Holding, Inc.</item>
+        <item>BOKF BOK Financial Corporation</item>
+        <item>BOLT Bolt Technology Corp.</item>
+        <item>BONA Bona Film Group Limited</item>
+        <item>BONT Bon-Ton Stores Inc.</item>
+        <item>BOOM Dynamic Materials Corp.</item>
+        <item>BOTA Biota Pharmaceuticals, Inc.</item>
+        <item>BPFH Boston Private Financial Holdings, Inc.</item>
+        <item>BPFHP Boston Private Financial Holdings, Inc.</item>
+        <item>BPFHW Boston Private Financial Holdin</item>
+        <item>BPOP Popular, Inc.</item>
+        <item>BPOPM Popular, Inc.</item>
+        <item>BPOPN Popular, Inc.</item>
+        <item>BRCD Brocade Communications Systems, Inc.</item>
+        <item>BRCM Broadcom Corp.</item>
+        <item>BRDR Borderfree, Inc.</item>
+        <item>BREW Craft Brew Alliance, Inc.</item>
+        <item>BRKL Brookline Bancorp, Inc.</item>
+        <item>BRKR Bruker Corporation</item>
+        <item>BRKS Brooks Automation, Inc.</item>
+        <item>BRLI Bio-Reference Laboratories Inc.</item>
+        <item>BSET Bassett Furniture Industries, Incorporated</item>
+        <item>BSFT BroadSoft, Inc.</item>
+        <item>BSRR Sierra Bancorp</item>
+        <item>BUSE First Busey Corporation</item>
+        <item>BV Bazaarvoice, Inc.</item>
+        <item>BWLD Buffalo Wild Wings Inc.</item>
+        <item>CA CA Technologies, Inc.</item>
+        <item>CAC Camden National Corp.</item>
+        <item>CACC Credit Acceptance Corp.</item>
+        <item>CACH Cache Inc.</item>
+        <item>CACQ Caesars Acquisition Company</item>
+        <item>CADX Cadence Pharmaceuticals Inc.</item>
+        <item>CAKE The Cheesecake Factory Incorporated</item>
+        <item>CALA Calithera Biosciences, Inc.</item>
+        <item>CALM Cal-Maine Foods, Inc.</item>
+        <item>CAMP CalAmp Corp.</item>
+        <item>CAR Avis Budget Group, Inc.</item>
+        <item>CASH Meta Financial Group, Inc.</item>
+        <item>CASS Cass Information Systems, Inc.</item>
+        <item>CASY Casey\'s General Stores, Inc.</item>
+        <item>CATM Cardtronics Inc.</item>
+        <item>CATY Cathay General Bancorp</item>
+        <item>CAVM Cavium, Inc.</item>
+        <item>CBEY Cbeyond, Inc.</item>
+        <item>CBF Capital Bank Financial Corp.</item>
+        <item>CBNJ Cape Bancorp, Inc.</item>
+        <item>CBOE CBOE Holdings, Inc.</item>
+        <item>CBPO China Biologic Products, Inc.</item>
+        <item>CBRL Cracker Barrel Old Country Store, Inc.</item>
+        <item>CBSH Commerce Bancshares, Inc.</item>
+        <item>CBSHP Commerce Bancshares, Inc.</item>
+        <item>CBST Cubist Pharmaceuticals Inc.</item>
+        <item>CBSTZ Cubist Pharmaceuticals, Inc.</item>
+        <item>CCBG Capital City Bank Group Inc.</item>
+        <item>CCIH ChinaCache International Holdings Ltd.</item>
+        <item>CCLP CSI Compressco LP</item>
+        <item>CCMP Cabot Microelectronics Corporation</item>
+        <item>CCNE CNB Financial Corp.</item>
+        <item>CCOI Cogent Communications Holdings, Inc.</item>
+        <item>CCRN Cross Country Healthcare, Inc.</item>
+        <item>CCXI ChemoCentryx, Inc.</item>
+        <item>CDK CDK Global, Inc.</item>
+        <item>CDNS Cadence Design Systems Inc.</item>
+        <item>CDW CDW Corporation</item>
+        <item>CDXS Codexis, Inc.</item>
+        <item>CECE CECO Environmental Corp.</item>
+        <item>CECO Career Education Corp.</item>
+        <item>CELG Celgene Corporation</item>
+        <item>CEMP Cempra, Inc.</item>
+        <item>CENT Central Garden \u0026 Pet Company</item>
+        <item>CENTA Central Garden \u0026 Pet Company</item>
+        <item>CENX Century Aluminum Co.</item>
+        <item>CERN Cerner Corporation</item>
+        <item>CETV Central European Media Enterprises Ltd.</item>
+        <item>CEVA CEVA Inc.</item>
+        <item>CFFI C\u0026F; Financial Corp.</item>
+        <item>CFFN Capitol Federal Financial, Inc.</item>
+        <item>CFNL Cardinal Financial Corp.</item>
+        <item>CG The Carlyle Group LP</item>
+        <item>CGNX Cognex Corporation</item>
+        <item>CGO Calamos Global Total Return Fun</item>
+        <item>CHCO City Holding Co.</item>
+        <item>CHDN Churchill Downs Inc.</item>
+        <item>CHDX Chindex International Inc.</item>
+        <item>CHEF The Chefs\' Warehouse, Inc.</item>
+        <item>CHFC Chemical Financial Corporation</item>
+        <item>CHI Calamos Convertible Opportuniti</item>
+        <item>CHKE Cherokee Inc.</item>
+        <item>CHKP Check Point Software Technologies Ltd.</item>
+        <item>CHMG Chemung Financial Corporation</item>
+        <item>CHOP China Gerui Advanced Materials Group Ltd.</item>
+        <item>CHRW CH Robinson Worldwide Inc.</item>
+        <item>CHTR Charter Communications, Inc.</item>
+        <item>CHUY Chuy\'s Holdings, Inc.</item>
+        <item>CHY Calamos Convertible \u0026 High Income Fund</item>
+        <item>CINF Cincinnati Financial Corp.</item>
+        <item>CISG CNinsure Inc.</item>
+        <item>CKEC Carmike Cinemas Inc.</item>
+        <item>CKSW ClickSoftware Technologies Ltd.</item>
+        <item>CLDX Celldex Therapeutics, Inc.</item>
+        <item>CLMS Calamos Asset Management Inc.</item>
+        <item>CLMT Calumet Specialty Products Partners LP</item>
+        <item>CLNE Clean Energy Fuels Corp.</item>
+        <item>CLVS Clovis Oncology, Inc.</item>
+        <item>CMCO Columbus McKinnon Corporation</item>
+        <item>CMCSA Comcast Corporation</item>
+        <item>CMCSK Comcast Corporation</item>
+        <item>CME CME Group Inc.</item>
+        <item>CMFN N/A</item>
+        <item>CMLS Cumulus Media Inc.</item>
+        <item>CMPR Cimpress N.V.</item>
+        <item>CMTL Comtech Telecommunications Corp.</item>
+        <item>CNBC Center Bancorp, Inc.</item>
+        <item>CNBKA Century Bancorp Inc.</item>
+        <item>CNIT China Information Technology, Inc.</item>
+        <item>CNMD CONMED Corporation</item>
+        <item>CNOB ConnectOne Bancorp, Inc.</item>
+        <item>CNQR Concur Technologies, Inc.</item>
+        <item>CNSL Consolidated Communications Holdings Inc.</item>
+        <item>CNTF China Techfaith Wireless Communication Technology Limited</item>
+        <item>CNV Cnova N.V.</item>
+        <item>CNVR Conversant, Inc.</item>
+        <item>COBZ CoBiz Financial Inc.</item>
+        <item>COCO Corinthian Colleges Inc.</item>
+        <item>COGO Cogo Group, Inc.</item>
+        <item>COHR Coherent Inc.</item>
+        <item>COHU Cohu, Inc.</item>
+        <item>COKE Coca-Cola Bottling Co. Consolidated</item>
+        <item>COLB Columbia Banking System Inc.</item>
+        <item>COLM Columbia Sportswear Company</item>
+        <item>COMM CommScope Holding Company, Inc.</item>
+        <item>CONE Cyrusone Inc.</item>
+        <item>CONN Conns Inc.</item>
+        <item>CORE Core-Mark Holding Company, Inc.</item>
+        <item>COST Costco Wholesale Corporation</item>
+        <item>COVS Covisint Corporation</item>
+        <item>COWN Cowen Group, Inc.</item>
+        <item>CPHD Cepheid</item>
+        <item>CPIX Cumberland Pharmaceuticals, Inc.</item>
+        <item>CPLA Capella Education Co.</item>
+        <item>CPLP Capital Product Partners L.P.</item>
+        <item>CPRT Copart, Inc.</item>
+        <item>CPSI Computer Programs \u0026 Systems Inc.</item>
+        <item>CPTA Capitala Finance Corp.</item>
+        <item>CPWR Compuware Corporation</item>
+        <item>CRAI CRA International Inc.</item>
+        <item>CRAY Cray Inc.</item>
+        <item>CREE Cree, Inc.</item>
+        <item>CRESW Cresud S.A.C.I.F. y A.</item>
+        <item>CRESY Cresud Sociedad Anónima Comercial, Inmobiliaria, Financiera y Agropecuaria</item>
+        <item>CRMT America\'s Car-Mart Inc.</item>
+        <item>CRNT Ceragon Networks Ltd.</item>
+        <item>CROX Crocs, Inc.</item>
+        <item>CRRC Courier Corporation</item>
+        <item>CRTO Criteo SA</item>
+        <item>CRUS Cirrus Logic Inc.</item>
+        <item>CRVL CorVel Corporation</item>
+        <item>CRWN Crown Media Holdings Inc.</item>
+        <item>CRZO Carrizo Oil \u0026 Gas Inc.</item>
+        <item>CSBK Clifton Bancorp Inc.</item>
+        <item>CSCO Cisco Systems, Inc.</item>
+        <item>CSFL CenterState Banks, Inc.</item>
+        <item>CSGP CoStar Group Inc.</item>
+        <item>CSGS CSG Systems International Inc.</item>
+        <item>CSII Cardiovascular Systems Inc.</item>
+        <item>CSIQ Canadian Solar Inc.</item>
+        <item>CSOD Cornerstone OnDemand, Inc.</item>
+        <item>CSQ Calamos Strategic Total Return </item>
+        <item>CSRE CSR plc</item>
+        <item>CSTE CaesarStone Sdot-Yam Ltd.</item>
+        <item>CSUN China Sunergy Co. Ltd.</item>
+        <item>CSWC Capital Southwest Corporation</item>
+        <item>CTAS Cintas Corporation</item>
+        <item>CTBI Community Trust Bancorp Inc.</item>
+        <item>CTCM CTC Media, Inc</item>
+        <item>CTCT Constant Contact, Inc.</item>
+        <item>CTG Computer Task Group Inc.</item>
+        <item>CTHR Charles \u0026 Colvard Ltd.</item>
+        <item>CTRE CareTrust REIT, Inc.</item>
+        <item>CTREV CareTrust REIT, Inc.</item>
+        <item>CTRL Control4 Corporation</item>
+        <item>CTRN Citi Trends, Inc.</item>
+        <item>CTRP Ctrip.com International Ltd.</item>
+        <item>CTRX Catamaran Corporation</item>
+        <item>CTSH Cognizant Technology Solutions Corporation</item>
+        <item>CTWS Connecticut Water Service Inc.</item>
+        <item>CTXS Citrix Systems, Inc.</item>
+        <item>CUBI Customers Bancorp, Inc.</item>
+        <item>CUBIL Customers Bancorp, Inc.</item>
+        <item>CVBF CVB Financial Corp.</item>
+        <item>CVCO Cavco Industries, Inc.</item>
+        <item>CVGI Commercial Vehicle Group Inc.</item>
+        <item>CVGW Calavo Growers Inc.</item>
+        <item>CVLT CommVault Systems, Inc.</item>
+        <item>CVTI Covenant Transportation Group, Inc.</item>
+        <item>CWCO Consolidated Water Co. Ltd.</item>
+        <item>CWST Casella Waste Systems Inc.</item>
+        <item>CY Cypress Semiconductor Corporation</item>
+        <item>CYBR Cyber-Ark Software Ltd.</item>
+        <item>CYBX Cyberonics Inc.</item>
+        <item>CYNO Cynosure, Inc.</item>
+        <item>CYOU Changyou.com Limited</item>
+        <item>CZR Caesars Entertainment Corporation</item>
+        <item>DAKT Daktronics Inc.</item>
+        <item>DATE Jiayuan.com International Ltd.</item>
+        <item>DAVE Famous Dave\'s of America Inc.</item>
+        <item>DBLEP Double Eagle Petroleum Co.</item>
+        <item>DBVT DBV Technologies S.A.</item>
+        <item>DCIX Diana Containerships Inc.</item>
+        <item>DCOM Dime Community Bancshares Inc.</item>
+        <item>DEPO DepoMed Inc.</item>
+        <item>DERM Dermira, Inc.</item>
+        <item>DEST Destination Maternity Corporation</item>
+        <item>DFRG Del Frisco\'s Restaurant Group, Inc.</item>
+        <item>DFZ R.G. Barry Corporation</item>
+        <item>DGAS Delta Natural Gas Company, Inc.</item>
+        <item>DGICA Donegal Group Inc.</item>
+        <item>DGICB Donegal Group Inc.</item>
+        <item>DGII Digi International Inc.</item>
+        <item>DHIL Diamond Hill Investment Group Inc.</item>
+        <item>DIOD Diodes Incorporated</item>
+        <item>DISCA Discovery Communications, Inc.</item>
+        <item>DISCB Discovery Communications, Inc.</item>
+        <item>DISCK Discovery Communications, Inc.</item>
+        <item>DISH Dish Network Corp.</item>
+        <item>DLLR DFC Global Corp.</item>
+        <item>DLNG Dynagas LNG Partners LP</item>
+        <item>DLTR Dollar Tree, Inc.</item>
+        <item>DMLP Dorchester Minerals LP</item>
+        <item>DMND Diamond Foods, Inc.</item>
+        <item>DMRC Digimarc Corporation</item>
+        <item>DNDN Dendreon Corp.</item>
+        <item>DNKN Dunkin\' Brands Group, Inc.</item>
+        <item>DORM Dorman Products, Inc.</item>
+        <item>DOX Amdocs Limited</item>
+        <item>DRIV Digital River Inc.</item>
+        <item>DRNA Dicerna Pharmaceuticals, Inc.</item>
+        <item>DRWI DragonWave Inc.</item>
+        <item>DRYS DryShips, Inc.</item>
+        <item>DSGX The Descartes Systems Group Inc</item>
+        <item>DSKY iDreamSky Technology Limited</item>
+        <item>DSPG DSP Group Inc.</item>
+        <item>DTLK Datalink Corporation</item>
+        <item>DTSI DTS Inc.</item>
+        <item>DTV DIRECTV</item>
+        <item>DWA DreamWorks Animation SKG Inc.</item>
+        <item>DWSN Dawson Geophysical Company</item>
+        <item>DXCM DexCom, Inc.</item>
+        <item>DXLG Destination XL Group, Inc.</item>
+        <item>DXM Dex Media, Inc.</item>
+        <item>DXPE DXP Enterprises, Inc.</item>
+        <item>EA Electronic Arts Inc.</item>
+        <item>EBAY eBay Inc.</item>
+        <item>EBIX Ebix Inc.</item>
+        <item>EBSB Meridian Bancorp, Inc.</item>
+        <item>EBTC Enterprise Bancorp Inc.</item>
+        <item>ECHO Echo Global Logistics, Inc.</item>
+        <item>ECOL US Ecology, Inc.</item>
+        <item>ECPG Encore Capital Group, Inc.</item>
+        <item>ECYT Endocyte, Inc.</item>
+        <item>EDS Exceed Company Ltd.</item>
+        <item>EEFT Euronet Worldwide Inc.</item>
+        <item>EFII Electronics for Imaging, Inc.</item>
+        <item>EFSC Enterprise Financial Services Corp.</item>
+        <item>EGHT 8x8 Inc.</item>
+        <item>EGLE Eagle Bulk Shipping, Inc.</item>
+        <item>EGOV NIC Inc.</item>
+        <item>EHTH eHealth, Inc.</item>
+        <item>EIGI Endurance International Group Holdings, Inc.</item>
+        <item>EIHI Eastern Insurance Holdings, Inc.</item>
+        <item>ELGX Endologix Inc.</item>
+        <item>ELNK EarthLink Holdings Corp.</item>
+        <item>ELON Echelon Corporation</item>
+        <item>ELOS Syneron Medical Ltd.</item>
+        <item>ELRC Electro Rent Corporation</item>
+        <item>EMCI EMC Insurance Group Inc.</item>
+        <item>EMITF Elbit Imaging Ltd.</item>
+        <item>EMMS Emmis Communications Corp.</item>
+        <item>EMMSP Emmis Communications Corp.</item>
+        <item>ENDP Endo International plc</item>
+        <item>ENOC EnerNOC, Inc.</item>
+        <item>ENSG The Ensign Group, Inc.</item>
+        <item>ENTA Enanta Pharmaceuticals, Inc.</item>
+        <item>ENTG Entegris, Inc.</item>
+        <item>ENTR Entropic Communications, Inc.</item>
+        <item>ENVE Enventis Corporation</item>
+        <item>ENVI Envivio, Inc.</item>
+        <item>ENZY Enzymotec Ltd.</item>
+        <item>EPAX Ambassadors Group Inc.</item>
+        <item>EPAY Bottomline Technologies (de), Inc.</item>
+        <item>EPIQ Epiq Systems, Inc.</item>
+        <item>EPZM Epizyme, Inc.</item>
+        <item>EQIX Equinix, Inc.</item>
+        <item>ERI Eldorado Resorts, Inc.</item>
+        <item>ERIC Ericsson</item>
+        <item>ERIE Erie Indemnity Company</item>
+        <item>ERII Energy Recovery, Inc.</item>
+        <item>EROC Eagle Rock Energy Partners, L.P.</item>
+        <item>ESBF ESB Financial Corp.</item>
+        <item>ESCR Escalera Resources Co.</item>
+        <item>ESCRP Escalera Resources Co.</item>
+        <item>ESEA Euroseas, Ltd.</item>
+        <item>ESGR Enstar Group Limited</item>
+        <item>ESIO Electro Scientific Industries Inc.</item>
+        <item>ESLT Elbit Systems Ltd.</item>
+        <item>ESRX Express Scripts Holding Company</item>
+        <item>ESSA ESSA Bancorp, Inc.</item>
+        <item>ETFC E*TRADE Financial Corporation</item>
+        <item>EVBS Eastern Virginia Bankshares Inc.</item>
+        <item>EVEP EV Energy Partners LP</item>
+        <item>EVLV EVINE Live Inc.</item>
+        <item>EWBC East West Bancorp, Inc.</item>
+        <item>EXAC Exactech Inc.</item>
+        <item>EXEL Exelixis, Inc.</item>
+        <item>EXFO EXFO Inc</item>
+        <item>EXLP Exterran Partners, L.P.</item>
+        <item>EXLS Exlservice Holdings, Inc.</item>
+        <item>EXPD Expeditors International of Washington Inc.</item>
+        <item>EXPE Expedia Inc.</item>
+        <item>EXPO Exponent Inc.</item>
+        <item>EXTR Extreme Networks Inc.</item>
+        <item>EXXI Energy XXI Ltd.</item>
+        <item>EZCH EZchip Semiconductor Ltd.</item>
+        <item>EZPW EZCORP, Inc.</item>
+        <item>FANG Diamondback Energy, Inc.</item>
+        <item>FARM Farmer Brothers Co.</item>
+        <item>FARO FARO Technologies Inc.</item>
+        <item>FAST Fastenal Company</item>
+        <item>FB Facebook, Inc.</item>
+        <item>FBIZ First Business Financial Services, Inc.</item>
+        <item>FBMI Firstbank Corporation</item>
+        <item>FBNC First Bancorp</item>
+        <item>FBNK First Connecticut Bancorp, Inc.</item>
+        <item>FBRC FBR \u0026 Co.</item>
+        <item>FCBC First Community Bancshares, Inc.</item>
+        <item>FCFS First Cash Financial Services Inc.</item>
+        <item>FCNCA First Citizens Bancshares Inc.</item>
+        <item>FCS Fairchild Semiconductor International Inc.</item>
+        <item>FDEF First Defiance Financial Corp.</item>
+        <item>FDML Federal-Mogul Holdings Corporation</item>
+        <item>FDUS Fidus Investment Corporation</item>
+        <item>FEIC FEI Company</item>
+        <item>FELE Franklin Electric Co., Inc.</item>
+        <item>FEYE FireEye, Inc.</item>
+        <item>FFBC First Financial Bancorp.</item>
+        <item>FFBCW First Financial Bancorp.</item>
+        <item>FFEX Frozen Food Express Industries Inc.</item>
+        <item>FFIC Flushing Financial Corp.</item>
+        <item>FFIN First Financial Bankshares Inc.</item>
+        <item>FFIV F5 Networks, Inc.</item>
+        <item>FFKT Farmers Capital Bank Corporation</item>
+        <item>FFNW First Financial Northwest, Inc.</item>
+        <item>FGEN FibroGen, Inc.</item>
+        <item>FIBK First Interstate Bancsystem Inc.</item>
+        <item>FINL Finish Line Inc.</item>
+        <item>FIRE Sourcefire, Inc.</item>
+        <item>FISI Financial Institutions Inc.</item>
+        <item>FISV Fiserv, Inc.</item>
+        <item>FITB Fifth Third Bancorp</item>
+        <item>FITBI Fifth Third Bancorp</item>
+        <item>FIVE Five Below, Inc.</item>
+        <item>FIZZ National Beverage Corp.</item>
+        <item>FLDM Fluidigm Corporation</item>
+        <item>FLEX Flextronics International Ltd.</item>
+        <item>FLIR FLIR Systems, Inc.</item>
+        <item>FLWS 1-800-Flowers.com Inc.</item>
+        <item>FLXS Flexsteel Industries Inc.</item>
+        <item>FMBI First Midwest Bancorp Inc.</item>
+        <item>FMER FirstMerit Corporation</item>
+        <item>FMFC First M\u0026F; Corporation</item>
+        <item>FMI Foundation Medicine, Inc.</item>
+        <item>FNFG First Niagara Financial Group Inc.</item>
+        <item>FNGN Financial Engines, Inc.</item>
+        <item>FNLC The First Bancorp, Inc.</item>
+        <item>FNSR Finisar Corp.</item>
+        <item>FORM FormFactor Inc.</item>
+        <item>FORR Forrester Research Inc.</item>
+        <item>FORTY Formula Systems (1985) Ltd.</item>
+        <item>FOSL Fossil Group, Inc.</item>
+        <item>FOX Twenty-First Century Fox, Inc.</item>
+        <item>FOXA Twenty-First Century Fox, Inc.</item>
+        <item>FOXF Fox Factory Holding Corp</item>
+        <item>FPRX Five Prime Therapeutics, Inc.</item>
+        <item>FRAN Francesca\'s Holdings Corporation</item>
+        <item>FRED Fred\'s, Inc.</item>
+        <item>FRGI Fiesta Restaurant Group, Inc.</item>
+        <item>FRME First Merchants Corporation</item>
+        <item>FRNK Franklin Financial Corporation</item>
+        <item>FRPH FRP Holdings, Inc.</item>
+        <item>FRSH Papa Murphy\'s Holdings, Inc.</item>
+        <item>FSAM Fifth Street Asset Management Inc.</item>
+        <item>FSBK First South Bancorp Inc.</item>
+        <item>FSC Fifth Street Finance Corp.</item>
+        <item>FSCFL Fifth Street Finance Corp.</item>
+        <item>FSCI Fisher Communications, Inc.</item>
+        <item>FSFR Fifth Street Senior Floating Rate Corp.</item>
+        <item>FSLR First Solar, Inc.</item>
+        <item>FSRV FirstService Corporation</item>
+        <item>FSTR LB Foster Co.</item>
+        <item>FSYS Fuel Systems Solutions, Inc.</item>
+        <item>FTD FTD Companies, Inc.</item>
+        <item>FTEK Fuel-Tech, Inc.</item>
+        <item>FTNT Fortinet Inc.</item>
+        <item>FTR Frontier Communications Corporation</item>
+        <item>FUBC 1st United Bancorp, Inc.</item>
+        <item>FUEL Rocket Fuel Inc.</item>
+        <item>FULT Fulton Financial Corporation</item>
+        <item>FUNC First United Corporation</item>
+        <item>FUND Royce Focus Trust, Inc.</item>
+        <item>FURX Furiex Pharmaceuticals, Inc.</item>
+        <item>FWLT Foster Wheeler AG</item>
+        <item>FWP Forward Pharma A/S</item>
+        <item>FWRD Forward Air Corp.</item>
+        <item>FXCB Fox Chase Bancorp, Inc.</item>
+        <item>FXEN FX Energy Inc.</item>
+        <item>FXENP FX Energy Inc.</item>
+        <item>GABC German American Bancorp Inc.</item>
+        <item>GAGA Le Gaga Holdings Ltd</item>
+        <item>GAIN Gladstone Investment Corporatio</item>
+        <item>GAINP Gladstone Investment Corporatio</item>
+        <item>GAME Shanda Games Limited</item>
+        <item>GARS Garrison Capital Inc.</item>
+        <item>GASS StealthGas, Inc.</item>
+        <item>GBCI Glacier Bancorp, Inc.</item>
+        <item>GBDC Golub Capital BDC, Inc.</item>
+        <item>GBLI Global Indemnity plc</item>
+        <item>GBNK Guaranty Bancorp</item>
+        <item>GCOM Globecomm Systems Inc.</item>
+        <item>GEOS Geospace Technologies Corporation</item>
+        <item>GERN Geron Corporation</item>
+        <item>GEVA Synageva BioPharma Corp.</item>
+        <item>GHDX Genomic Health Inc.</item>
+        <item>GIFI Gulf Island Fabrication Inc.</item>
+        <item>GIGM GigaMedia Ltd.</item>
+        <item>GIII G-III Apparel Group, Ltd.</item>
+        <item>GILD Gilead Sciences Inc.</item>
+        <item>GILT Gilat Satellite Networks Ltd.</item>
+        <item>GIVN Given Imaging Ltd.</item>
+        <item>GK G\u0026K; Services Inc.</item>
+        <item>GLAD Gladstone Capital Corporation</item>
+        <item>GLADO Gladstone Capital Corporation</item>
+        <item>GLADP Gladstone Capital Corporation</item>
+        <item>GLDD Great Lakes Dredge \u0026 Dock Corporation</item>
+        <item>GLNG Golar LNG Ltd.</item>
+        <item>GLPI Gaming and Leisure Properties, Inc</item>
+        <item>GLRE Greenlight Capital Re, Ltd.</item>
+        <item>GLUU Glu Mobile, Inc.</item>
+        <item>GMAN Gordmans Stores, Inc.</item>
+        <item>GMCR Keurig Green Mountain, Inc.</item>
+        <item>GMLP Golar LNG Partners LP</item>
+        <item>GNBC Green Bancorp, Inc.</item>
+        <item>GNCMA General Communication Inc.</item>
+        <item>GNTX Gentex Corp.</item>
+        <item>GOGO Gogo Inc.</item>
+        <item>GOLD Randgold Resources Limited</item>
+        <item>GOOD Gladstone Commercial Corp.</item>
+        <item>GOODN Gladstone Commercial Corp.</item>
+        <item>GOODO Gladstone Commercial Corp.</item>
+        <item>GOODP Gladstone Commercial Corp.</item>
+        <item>GOOG Google Inc.</item>
+        <item>GOOGL Google Inc.</item>
+        <item>GPOR Gulfport Energy Corp.</item>
+        <item>GPRE Green Plains Inc.</item>
+        <item>GPRO GoPro, Inc.</item>
+        <item>GRFS Grifols, S.A.</item>
+        <item>GRMN Garmin Ltd.</item>
+        <item>GRPN Groupon, Inc.</item>
+        <item>GSBC Great Southern Bancorp Inc.</item>
+        <item>GSIG GSI Group Inc.</item>
+        <item>GSIT GSI Technology Inc.</item>
+        <item>GSJK Compressco Partners, L.P.</item>
+        <item>GSM Globe Specialty Metals, Inc.</item>
+        <item>GSOL Global Sources Ltd.</item>
+        <item>GT The Goodyear Tire \u0026 Rubber Company</item>
+        <item>GTAT GT Advanced Technologies Inc.</item>
+        <item>GTIV Gentiva Health Services Inc.</item>
+        <item>GTLS Chart Industries Inc.</item>
+        <item>GURE Gulf Resources, Inc.</item>
+        <item>HA Hawaiian Holdings Inc.</item>
+        <item>HAFC Hanmi Financial Corporation</item>
+        <item>HAIN The Hain Celestial Group, Inc.</item>
+        <item>HALO Halozyme Therapeutics, Inc.</item>
+        <item>HAS Hasbro Inc.</item>
+        <item>HAWK Blackhawk Network Holdings, Inc.</item>
+        <item>HAWKB Blackhawk Network Holdings, Inc.</item>
+        <item>HAYN Haynes International, Inc.</item>
+        <item>HBAN Huntington Bancshares Incorporated</item>
+        <item>HBANP Huntington Bancshares Incorporated</item>
+        <item>HBCP Home Bancorp, Inc.</item>
+        <item>HBHC Hancock Holding Company</item>
+        <item>HBNC Horizon Bancorp</item>
+        <item>HBOS Heritage Financial Group, Inc.</item>
+        <item>HCBK Hudson City Bancorp, Inc.</item>
+        <item>HCCI Heritage-Crystal Clean, Inc</item>
+        <item>HCKT The Hackett Group, Inc.</item>
+        <item>HCOM Hawaiian Telcom Holdco, Inc.</item>
+        <item>HCSG Healthcare Services Group Inc.</item>
+        <item>HCT American Realty Capital Healthcare Trust, Inc.</item>
+        <item>HDNG Hardinge Inc.</item>
+        <item>HDS HD Supply Holdings, Inc.</item>
+        <item>HEES H\u0026E; Equipment Services Inc.</item>
+        <item>HELE Helen of Troy Limited</item>
+        <item>HERO Hercules Offshore, Inc.</item>
+        <item>HFWA Heritage Financial Corp.</item>
+        <item>HIBB Hibbett Sports, Inc.</item>
+        <item>HIMX Himax Technologies, Inc.</item>
+        <item>HITK Hi-Tech Pharmacal Co., Inc.</item>
+        <item>HITT Hittite Microwave Corporation</item>
+        <item>HKTV Hong Kong Television Network Limited</item>
+        <item>HLIT Harmonic Inc.</item>
+        <item>HLSS Home Loan Servicing Solutions, Ltd.</item>
+        <item>HMHC Houghton Mifflin Harcourt Company</item>
+        <item>HMIN Homeinns Hotel Group</item>
+        <item>HMPR Hampton Roads Bankshares Inc.</item>
+        <item>HMST HomeStreet, Inc.</item>
+        <item>HMSY HMS Holdings Corp.</item>
+        <item>HOFT Hooker Furniture Corp.</item>
+        <item>HOLI HollySys Automation Technologies, Ltd.</item>
+        <item>HOLX Hologic Inc.</item>
+        <item>HOMB Home Bancshares, Inc. (Conway, AR)</item>
+        <item>HOME Home Federal Bancorp Inc.</item>
+        <item>HPTX Hyperion Therapeutics, Inc.</item>
+        <item>HQY HealthEquity, Inc.</item>
+        <item>HRZN Horizon Technology Finance Corporation</item>
+        <item>HSIC Henry Schein, Inc.</item>
+        <item>HSII Heidrick \u0026 Struggles International Inc.</item>
+        <item>HSNI HSN, Inc.</item>
+        <item>HSOL Hanwha SolarOne Co., Ltd</item>
+        <item>HSON Hudson Global, Inc</item>
+        <item>HSTM Healthstream Inc.</item>
+        <item>HTBI HomeTrust Bancshares, Inc.</item>
+        <item>HTBK Heritage Commerce Corp.</item>
+        <item>HTCH Hutchinson Technology Inc.</item>
+        <item>HTCO Enventis Corporation</item>
+        <item>HTHT China Lodging Group, Limited</item>
+        <item>HTLD Heartland Express, Inc.</item>
+        <item>HTLF Heartland Financial USA, Inc.</item>
+        <item>HTWR Heartware International Inc.</item>
+        <item>HUBG Hub Group Inc.</item>
+        <item>HURC Hurco Companies Inc.</item>
+        <item>HURN Huron Consulting Group Inc.</item>
+        <item>HWAY Healthways Inc.</item>
+        <item>HWBK Hawthorn Bancshares, Inc.</item>
+        <item>HWCC Houston Wire \u0026 Cable Company</item>
+        <item>HWKN Hawkins Inc.</item>
+        <item>HZNP Horizon Pharma plc</item>
+        <item>IACI IAC/InterActiveCorp</item>
+        <item>IART Integra LifeSciences Holdings Corporation</item>
+        <item>IBCA Intervest Bancshares Corp.</item>
+        <item>IBCP Independent Bank Corporation</item>
+        <item>IBKC IberiaBank Corp.</item>
+        <item>IBKR Interactive Brokers Group, Inc.</item>
+        <item>IBOC International Bancshares Corporation</item>
+        <item>IBTX Independent Bank Group, Inc.</item>
+        <item>ICFI ICF International Inc.</item>
+        <item>ICGE ICG Group, Inc.</item>
+        <item>ICLR ICON Public Limited Company</item>
+        <item>ICON Iconix Brand Group, Inc.</item>
+        <item>ICPT Intercept Pharmaceuticals, Inc.</item>
+        <item>ICUI ICU Medical, Inc.</item>
+        <item>IDCC InterDigital, Inc.</item>
+        <item>IDIX Idenix Pharmaceuticals Inc.</item>
+        <item>IDTI Integrated Device Technology, Inc.</item>
+        <item>IDXX IDEXX Laboratories, Inc.</item>
+        <item>IEP Icahn Enterprises, L.P.</item>
+        <item>IGLD Internet Gold Golden Lines Ltd.</item>
+        <item>IGTE iGATE Corporation</item>
+        <item>IIIN Insteel Industries Inc.</item>
+        <item>IIJI Internet Initiative Japan Inc.</item>
+        <item>IILG Interval Leisure Group, Inc.</item>
+        <item>ILMN Illumina Inc.</item>
+        <item>IMGN ImmunoGen, Inc.</item>
+        <item>IMKTA Ingles Markets, Incorporated</item>
+        <item>IMMR Immersion Corporation</item>
+        <item>INAP Internap Corporation</item>
+        <item>INCR INC Research Holdings, Inc.</item>
+        <item>INCY Incyte Corporation</item>
+        <item>INDB Independent Bank Corp.</item>
+        <item>INFA Informatica Corporation</item>
+        <item>INFI Infinity Pharmaceuticals, Inc.</item>
+        <item>INFN Infinera Corporation</item>
+        <item>ININ Interactive Intelligence Group Inc.</item>
+        <item>INO Inovio Pharmaceuticals, Inc.</item>
+        <item>INSM Insmed Incorporated</item>
+        <item>INTC Intel Corporation</item>
+        <item>INTL INTL FCStone Inc.</item>
+        <item>INTLL INTL FCStone Inc.</item>
+        <item>INTU Intuit Inc.</item>
+        <item>IPAR Inter Parfums Inc.</item>
+        <item>IPAS iPass Inc.</item>
+        <item>IPCC Infinity Property and Casualty Corp.</item>
+        <item>IPCM IPC The Hospitalist Company, Inc.</item>
+        <item>IPGP IPG Photonics Corporation</item>
+        <item>IPHS Innophos Holdings Inc</item>
+        <item>IPXL Impax Laboratories Inc.</item>
+        <item>IQNT Inteliquent, Inc.</item>
+        <item>IRBT iRobot Corporation</item>
+        <item>IRDM Iridium Communications Inc.</item>
+        <item>IRG Ignite Restaurant Group, Inc.</item>
+        <item>IRWD Ironwood Pharmaceuticals, Inc.</item>
+        <item>ISBC Investors Bancorp Inc.</item>
+        <item>ISCA International Speedway Corp.</item>
+        <item>ISIL Intersil Corporation</item>
+        <item>ISIS Isis Pharmaceuticals, Inc.</item>
+        <item>ISLE Isle of Capri Casinos, Inc.</item>
+        <item>ISRG Intuitive Surgical, Inc.</item>
+        <item>ISSC Innovative Solutions \u0026 Support Inc.</item>
+        <item>ISSI Integrated Silicon Solution Inc.</item>
+        <item>ITCI Intra-Cellular Therapies, Inc.</item>
+        <item>ITIC Investors Title Co.</item>
+        <item>ITMN InterMune, Inc.</item>
+        <item>ITRI Itron, Inc.</item>
+        <item>ITRN Ituran Location \u0026 Control Ltd.</item>
+        <item>IXYS IXYS Corp.</item>
+        <item>JACK Jack in the Box Inc.</item>
+        <item>JAKK JAKKS Pacific, Inc.</item>
+        <item>JASO JA Solar Holdings Co., Ltd.</item>
+        <item>JAZZ Jazz Pharmaceuticals Public Limited Company</item>
+        <item>JBHT JB Hunt Transport Services Inc.</item>
+        <item>JBLU JetBlue Airways Corporation</item>
+        <item>JBSS John B Sanfilippo \u0026 Son Inc.</item>
+        <item>JCOM j2 Global, Inc.</item>
+        <item>JD JD.com, Inc.</item>
+        <item>JDSU JDS Uniphase Corporation</item>
+        <item>JIVE Jive Software, Inc.</item>
+        <item>JJSF J\u0026J; Snack Foods Corp.</item>
+        <item>JKHY Jack Henry \u0026 Associates Inc.</item>
+        <item>JOBS 51job Inc.</item>
+        <item>JOSB Jos. A Bank Clothiers Inc.</item>
+        <item>JOUT Johnson Outdoors Inc.</item>
+        <item>JRCC James River Coal Co.</item>
+        <item>JRJC China Finance Online Co., Ltd.</item>
+        <item>JST Jinpan International Limited</item>
+        <item>KALU Kaiser Aluminum Corporation</item>
+        <item>KANG iKang Healthcare Group, Inc.</item>
+        <item>KBAL Kimball International, Inc.</item>
+        <item>KBALB Kimball International, Inc.</item>
+        <item>KCAP KCAP Financial, Inc.</item>
+        <item>KE Kimball Electronics, Inc.</item>
+        <item>KELYA Kelly Services, Inc.</item>
+        <item>KELYB Kelly Services, Inc.</item>
+        <item>KEYN Keynote Systems, Inc.</item>
+        <item>KEYW The KEYW Holding Corporation</item>
+        <item>KFRC Kforce Inc.</item>
+        <item>KFX Kofax Limited</item>
+        <item>KIRK Kirkland\'s Inc.</item>
+        <item>KITE Kite Pharma, Inc.</item>
+        <item>KLAC KLA-Tencor Corporation</item>
+        <item>KLIC Kulicke and Soffa Industries, Inc.</item>
+        <item>KLXIV KLX Inc.</item>
+        <item>KMDA Kamada Ltd.</item>
+        <item>KNDI Kandi Technolgies Group, Inc.</item>
+        <item>KOPN Kopin Corporation</item>
+        <item>KPTI Karyopharm Therapeutics, Inc.</item>
+        <item>KRFT Kraft Foods Group, Inc.</item>
+        <item>KRNY Kearny Financial Corp.</item>
+        <item>KTOS Kratos Defense \u0026 Security Solutions, Inc.</item>
+        <item>KTWO K2M Group Holdings, Inc.</item>
+        <item>KVHI KVH Industries Inc.</item>
+        <item>KYTH Kythera Biopharmaceuticals, Inc.</item>
+        <item>KZ Kongzhong Corp.</item>
+        <item>LABL Multi-Color Corp.</item>
+        <item>LAMR Lamar Advertising Co.</item>
+        <item>LANC Lancaster Colony Corporation</item>
+        <item>LAWS Lawson Products Inc.</item>
+        <item>LAYN Layne Christensen Company</item>
+        <item>LBAI Lakeland Bancorp Inc.</item>
+        <item>LBRDA Liberty Broadband Corporation</item>
+        <item>LBRDK Liberty Broadband Corporation</item>
+        <item>LBRKR Liberty Broadband Corporation</item>
+        <item>LBTYA Liberty Global plc</item>
+        <item>LBTYB Liberty Global plc</item>
+        <item>LBTYK Liberty Global plc</item>
+        <item>LCAV LCA-Vision Inc.</item>
+        <item>LCUT Lifetime Brands, Inc.</item>
+        <item>LDRH LDR Holding Corporation</item>
+        <item>LEAP Leap Wireless International Inc.</item>
+        <item>LECO Lincoln Electric Holdings Inc.</item>
+        <item>LEDS SemiLEDs Corporation</item>
+        <item>LFUS Littelfuse Inc.</item>
+        <item>LGCY Legacy Reserves LP</item>
+        <item>LGCYO Legacy Reserves LP</item>
+        <item>LGCYP Legacy Reserves LP</item>
+        <item>LGIH LGI Homes, Inc.</item>
+        <item>LHCG LHC Group, Inc.</item>
+        <item>LINC Lincoln Educational Services Corporation</item>
+        <item>LINE Linn Energy, LLC</item>
+        <item>LION Fidelity Southern Corporation</item>
+        <item>LIOX Lionbridge Technologies Inc.</item>
+        <item>LKFN Lakeland Financial Corp.</item>
+        <item>LKQ LKQ Corp.</item>
+        <item>LLNW Limelight Networks, Inc.</item>
+        <item>LLTC Linear Technology Corporation</item>
+        <item>LMCA Liberty Media Corporation</item>
+        <item>LMCB Liberty Media Corporation</item>
+        <item>LMCK Liberty Media Corporation</item>
+        <item>LMCKV Liberty Media Corporation</item>
+        <item>LMIA LMI Aerospace Inc.</item>
+        <item>LMNR Limoneira Company</item>
+        <item>LMNS Lumenis Ltd.</item>
+        <item>LMNX Luminex Corporation</item>
+        <item>LMOS Lumos Networks Corp.</item>
+        <item>LNCE Snyder\'s-Lance, Inc.</item>
+        <item>LNCO Linn Co, LLC</item>
+        <item>LNDC Landec Corp.</item>
+        <item>LOCO El Pollo Loco Holdings, Inc.</item>
+        <item>LOGI Logitech International SA</item>
+        <item>LOGM LogMeIn, Inc.</item>
+        <item>LOJN LoJack Corporation</item>
+        <item>LONG eLong Inc.</item>
+        <item>LOPE Grand Canyon Education, Inc.</item>
+        <item>LORL Loral Space \u0026 Communications, Inc.</item>
+        <item>LPHI Life Partners Holdings, Inc.</item>
+        <item>LPLA LPL Financial Holdings Inc.</item>
+        <item>LPNT Lifepoint Hospitals Inc.</item>
+        <item>LPSN LivePerson Inc.</item>
+        <item>LQDT Liquidity Services, Inc.</item>
+        <item>LRCX Lam Research Corporation</item>
+        <item>LSCC Lattice Semiconductor Corporation</item>
+        <item>LSI LSI Corporation</item>
+        <item>LSTR Landstar System Inc.</item>
+        <item>LTRPA Liberty TripAdvisor Holdings, Inc.</item>
+        <item>LTRPB Liberty TripAdvisor Holdings, Inc.</item>
+        <item>LTXC Xcerra Corporation</item>
+        <item>LULU Lululemon Athletica Inc.</item>
+        <item>LVNTA Liberty Ventures</item>
+        <item>LVNTB Liberty Ventures</item>
+        <item>LXRX Lexicon Pharmaceuticals, Inc.</item>
+        <item>LYTS LSI Industries Inc.</item>
+        <item>MAKO MAKO Surgical Corp.</item>
+        <item>MANH Manhattan Associates, Inc.</item>
+        <item>MANT ManTech International Corporation</item>
+        <item>MAR Marriott International, Inc.</item>
+        <item>MASI Masimo Corporation</item>
+        <item>MAT Mattel, Inc.</item>
+        <item>MATW Matthews International Corporation</item>
+        <item>MAXY Maxygen, Inc.</item>
+        <item>MBFI MB Financial Inc.</item>
+        <item>MBFIP MB Financial Inc.</item>
+        <item>MBTF MBT Financial Corp.</item>
+        <item>MBVT Merchants Bancshares Inc.</item>
+        <item>MBWM Mercantile Bank Corp.</item>
+        <item>MCBC Macatawa Bank Corp.</item>
+        <item>MCEP Mid-Con Energy Partners, LP</item>
+        <item>MCGC MCG Capital Corporation</item>
+        <item>MCHP Microchip Technology Inc.</item>
+        <item>MCHX Marchex, Inc.</item>
+        <item>MCOX Mecox Lane Limited</item>
+        <item>MCRI Monarch Casino \u0026 Resort Inc.</item>
+        <item>MCRL Micrel Inc.</item>
+        <item>MCRS MICROS Systems, Inc.</item>
+        <item>MDAS MedAssets, Inc.</item>
+        <item>MDCA MDC Partners Inc.</item>
+        <item>MDCI Medical Action Industries Inc.</item>
+        <item>MDCO The Medicines Company</item>
+        <item>MDLZ Mondelez International, Inc.</item>
+        <item>MDRX Allscripts Healthcare Solutions, Inc.</item>
+        <item>MDSO Medidata Solutions, Inc.</item>
+        <item>MDVN Medivation, Inc.</item>
+        <item>MEAS Measurement Specialties Inc.</item>
+        <item>MELI Mercadolibre, Inc.</item>
+        <item>MEMP Memorial Production Partners LP</item>
+        <item>MENT Mentor Graphics Corp.</item>
+        <item>MEOH Methanex Corporation</item>
+        <item>MERC Mercer International Inc.</item>
+        <item>METR Metro Bancorp, Inc.</item>
+        <item>MFLX Multi-Fineline Electronix, Inc.</item>
+        <item>MFRM Mattress Firm Holding Corp.</item>
+        <item>MGAM Multimedia Games Holding Company, Inc.</item>
+        <item>MGEE MGE Energy Inc.</item>
+        <item>MGI Moneygram International Inc.</item>
+        <item>MGIC Magic Software Enterprises Ltd.</item>
+        <item>MGLN Magellan Health, Inc.</item>
+        <item>MGNX MacroGenics, Inc.</item>
+        <item>MGPI MGP Ingredients Inc.</item>
+        <item>MGRC McGrath Rentcorp</item>
+        <item>MHLD Maiden Holdings, Ltd.</item>
+        <item>MHLDO Maiden Holdings, Ltd.</item>
+        <item>MIDD Middleby Corp.</item>
+        <item>MIFI Novatel Wireless Inc.</item>
+        <item>MIK The Michaels Companies, Inc.</item>
+        <item>MIND Mitcham Industries Inc.</item>
+        <item>MINI Mobile Mini, Inc.</item>
+        <item>MITL Mitel Networks Corporation</item>
+        <item>MKSI MKS Instruments, Inc.</item>
+        <item>MKTO Marketo, Inc.</item>
+        <item>MKTX MarketAxess Holdings Inc.</item>
+        <item>MLAB Mesa Laboratories Inc.</item>
+        <item>MLHR Herman Miller Inc.</item>
+        <item>MLNK ModusLink Global Solutions, Inc.</item>
+        <item>MLNX Mellanox Technologies, Ltd.</item>
+        <item>MMLP Martin Midstream Partners LP</item>
+        <item>MMSI Merit Medical Systems, Inc.</item>
+        <item>MMYT MakeMyTrip Limited</item>
+        <item>MNRO Monro Muffler Brake Inc.</item>
+        <item>MNST Monster Beverage Corporation</item>
+        <item>MNTA Momenta Pharmaceuticals Inc.</item>
+        <item>MNTG MTR Gaming Group, Inc., Prior to Reverse Merger with Eldorado Resorts, LLC</item>
+        <item>MOBL MobileIron, Inc.</item>
+        <item>MOFG MidWest One Financial Group, Inc.</item>
+        <item>MOLG MOL Global, Inc.</item>
+        <item>MOLX Molex Incorporated</item>
+        <item>MONT Montage Technology Group Limited</item>
+        <item>MORN Morningstar Inc.</item>
+        <item>MOSY MoSys, Inc.</item>
+        <item>MOVE Move, Inc.</item>
+        <item>MPAA Motorcar Parts of America, Inc.</item>
+        <item>MPEL Melco Crown Entertainment Limited</item>
+        <item>MPWR Monolithic Power Systems Inc.</item>
+        <item>MRCC Monroe Capital Corporation</item>
+        <item>MRCY Mercury Systems, Inc.</item>
+        <item>MRD Memorial Resource Development Corp.</item>
+        <item>MRGE Merge Healthcare Incorporated</item>
+        <item>MRKT Markit Ltd.</item>
+        <item>MRLN Marlin Business Services Corp.</item>
+        <item>MRTN Marten Transport Ltd.</item>
+        <item>MRVL Marvell Technology Group Ltd.</item>
+        <item>MSCC Microsemi Corporation</item>
+        <item>MSEX Middlesex Water Co.</item>
+        <item>MSFG MainSource Financial Group, Inc.</item>
+        <item>MSFT Microsoft Corporation</item>
+        <item>MSG The Madison Square Garden Company</item>
+        <item>MSPD Mindspeed Technologies Inc.</item>
+        <item>MSTR MicroStrategy Inc.</item>
+        <item>MTEX Mannatech, Incorporated</item>
+        <item>MTGE American Capital Mortgage Investment Corp.</item>
+        <item>MTGEP American Capital Mortgage Investment Corp.</item>
+        <item>MTLS Materialise NV</item>
+        <item>MTRX Matrix Service Company</item>
+        <item>MTSC MTS Systems Corporation</item>
+        <item>MTSI M/A-Com Technology Solutions Holdings, Inc.</item>
+        <item>MTSN Mattson Technology Inc.</item>
+        <item>MU Micron Technology, Inc.</item>
+        <item>MWIV MWI Veterinary Supply, Inc.</item>
+        <item>MXIM Maxim Integrated Products, Inc.</item>
+        <item>MXWL Maxwell Technologies, Inc.</item>
+        <item>MYGN Myriad Genetics Inc.</item>
+        <item>MYL Mylan, Inc.</item>
+        <item>MYRG MYR Group, Inc.</item>
+        <item>NAFC Nash Finch Co.</item>
+        <item>NAME Rightside Group, Ltd.</item>
+        <item>NANO Nanometrics Incorporated</item>
+        <item>NATH Nathan\'s Famous Inc.</item>
+        <item>NATI National Instruments Corporation</item>
+        <item>NATL National Interstate Corporation</item>
+        <item>NAVG Navigators Group Inc.</item>
+        <item>NAVI Navient Corporation</item>
+        <item>NBBC NewBridge Bancorp</item>
+        <item>NBCB First NBC Bank Holding Company</item>
+        <item>NBIX Neurocrine Biosciences Inc.</item>
+        <item>NBTB NBT Bancorp, Inc.</item>
+        <item>NCIT NCI, Inc.</item>
+        <item>NCLH Norwegian Cruise Line Holdings Ltd.</item>
+        <item>NCMI National CineMedia, Inc.</item>
+        <item>NCTY The9 Limited</item>
+        <item>NDAQ The Nasdaq OMX Group, Inc.</item>
+        <item>NDLS Noodles \u0026 Company</item>
+        <item>NDSN Nordson Corporation</item>
+        <item>NEOG Neogen Corp.</item>
+        <item>NEWP Newport Corp.</item>
+        <item>NEWS NewStar Financial, Inc.</item>
+        <item>NFBK Northfield Bancorp, Inc. (Staten Island, NY)</item>
+        <item>NFLX Netflix, Inc.</item>
+        <item>NGPC NGP Capital Resources Company</item>
+        <item>NICE NICE Systems Ltd.</item>
+        <item>NICK Nicholas Financial Inc.</item>
+        <item>NIHD NII Holdings Inc.</item>
+        <item>NILE Blue Nile Inc.</item>
+        <item>NKTR Nektar Therapeutics</item>
+        <item>NMRX Numerex Corp.</item>
+        <item>NNBR NN Inc.</item>
+        <item>NOVB North Valley Bancorp</item>
+        <item>NPBC National Penn Bancshares Inc.</item>
+        <item>NPSP NPS Pharmaceuticals, Inc.</item>
+        <item>NRCIA National Research Corp.</item>
+        <item>NRCIB National Research Corp.</item>
+        <item>NRIM Northrim Bancorp Inc.</item>
+        <item>NSIT Insight Enterprises Inc.</item>
+        <item>NSSC Napco Security Technologies, Inc.</item>
+        <item>NTAP NetApp, Inc.</item>
+        <item>NTCT NetScout Systems, Inc.</item>
+        <item>NTES NetEase, Inc.</item>
+        <item>NTGR Netgear Inc.</item>
+        <item>NTK Nortek Inc.</item>
+        <item>NTLS NTELOS Holdings Corp.</item>
+        <item>NTRI Nutrisystem, Inc.</item>
+        <item>NTRS Northern Trust Corporation</item>
+        <item>NTRSP Northern Trust Corporation</item>
+        <item>NUAN Nuance Communications, Inc.</item>
+        <item>NUTR Nutraceutical International Corporation</item>
+        <item>NUVA NuVasive, Inc.</item>
+        <item>NVAX Novavax, Inc.</item>
+        <item>NVDA NVIDIA Corporation</item>
+        <item>NVMI Nova Measuring Instruments Ltd.</item>
+        <item>NVTL Novatel Wireless Inc.</item>
+        <item>NWBI Northwest Bancshares, Inc.</item>
+        <item>NWLI National Western Life Insurance Company</item>
+        <item>NWPX Northwest Pipe Co.</item>
+        <item>NWS News Corporation</item>
+        <item>NWSA News Corporation</item>
+        <item>NXPI NXP Semiconductors NV</item>
+        <item>NXST Nexstar Broadcasting Group, Inc.</item>
+        <item>NXTM Nxstage Medical, Inc.</item>
+        <item>NYMT New York Mortgage Trust Inc.</item>
+        <item>OABC Omniamerican Bancorp, Inc.</item>
+        <item>OCFC OceanFirst Financial Corp.</item>
+        <item>OCLR Oclaro, Inc.</item>
+        <item>ODFL Old Dominion Freight Line Inc.</item>
+        <item>ODP Office Depot, Inc.</item>
+        <item>OFIX Orthofix International N.V.</item>
+        <item>OFS OFS Capital Corporation</item>
+        <item>OHAI OHA Investment Corporation</item>
+        <item>OIIM O2Micro International Ltd.</item>
+        <item>OKSB Southwest Bancorp Inc.</item>
+        <item>OLED Universal Display Corp.</item>
+        <item>OMAB Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.</item>
+        <item>OMCL Omnicell, Inc.</item>
+        <item>OMED OncoMed Pharmaceuticals, Inc.</item>
+        <item>ONB Old National Bancorp.</item>
+        <item>ONNN ON Semiconductor Corp.</item>
+        <item>ONTX Onconova Therapeutics, Inc.</item>
+        <item>ONTY Oncothyreon Inc</item>
+        <item>ONXX Onyx Pharmaceuticals, Inc.</item>
+        <item>OPB Opus Bank</item>
+        <item>OPEN OpenTable, Inc.</item>
+        <item>OPHT Ophthotech Corporation</item>
+        <item>OPLK Oplink Communications, Inc.</item>
+        <item>OPTR Optimer Pharmaceuticals, Inc.</item>
+        <item>ORBC ORBCOMM, Inc.</item>
+        <item>ORBK Orbotech Ltd.</item>
+        <item>OREX Orexigen Therapeutics, Inc.</item>
+        <item>ORIG Ocean Rig UDW Inc.</item>
+        <item>ORIT Oritani Financial Corp.</item>
+        <item>ORLY O\'Reilly Automotive Inc.</item>
+        <item>OSBC Old Second Bancorp Inc.</item>
+        <item>OSBCP Old Second Bancorp, Inc.</item>
+        <item>OSIS OSI Systems, Inc.</item>
+        <item>OSUR OraSure Technologies, Inc.</item>
+        <item>OTEX Open Text Corporation</item>
+        <item>OTIC Otonomy, Inc.</item>
+        <item>OTTR Otter Tail Corporation</item>
+        <item>OUTR Outerwall Inc.</item>
+        <item>OVTI OmniVision Technologies, Inc.</item>
+        <item>OXLC Oxford Lane Capital Corp.</item>
+        <item>OXLCN Oxford Lane Capital Corp.</item>
+        <item>OXLCO Oxford Lane Capital Corp.</item>
+        <item>OXLCP Oxford Lane Capital Corp.</item>
+        <item>OZRK Bank of the Ozarks, Inc.</item>
+        <item>PAAS Pan American Silver Corp.</item>
+        <item>PACB Pacific Biosciences of California, Inc.</item>
+        <item>PACR Pacer International, Inc.</item>
+        <item>PACT Pactera Technology International Ltd.</item>
+        <item>PACW PacWest Bancorp</item>
+        <item>PATK Patrick Industries Inc.</item>
+        <item>PATR Patriot Transportation Holding, Inc.</item>
+        <item>PAYX Paychex, Inc.</item>
+        <item>PBCT People\'s United Financial Inc.</item>
+        <item>PBPB Potbelly Corporation</item>
+        <item>PCAR PACCAR Inc.</item>
+        <item>PCBK Pacific Continental Corp.</item>
+        <item>PCCC PC Connection, Inc.</item>
+        <item>PCH Potlatch Corporation</item>
+        <item>PCLN The Priceline Group Inc.</item>
+        <item>PCO Pendrell Corporation</item>
+        <item>PCRX Pacira Pharmaceuticals, Inc.</item>
+        <item>PCTI PCTEL, Inc.</item>
+        <item>PCTY Paylocity Holding Corporation</item>
+        <item>PCYC Pharmacyclics Inc.</item>
+        <item>PDCE PDC Energy, Inc.</item>
+        <item>PDCO Patterson Companies, Inc.</item>
+        <item>PDFS PDF Solutions Inc.</item>
+        <item>PDLI PDL BioPharma, Inc.</item>
+        <item>PEBO Peoples Bancorp Inc.</item>
+        <item>PEGA Pegasystems Inc.</item>
+        <item>PEGI Pattern Energy Group Inc.</item>
+        <item>PENN Penn National Gaming Inc.</item>
+        <item>PERI Perion Network Ltd.</item>
+        <item>PERY Perry Ellis International Inc.</item>
+        <item>PETM PetSmart, Inc.</item>
+        <item>PETS PetMed Express, Inc.</item>
+        <item>PFBC Preferred Bank</item>
+        <item>PFIS Peoples Financial Services Corp.</item>
+        <item>PFLT PennantPark Floating Rate Capit</item>
+        <item>PFMT Performant Financial Corporation</item>
+        <item>PGC Peapack-Gladstone Financial Corp.</item>
+        <item>PGNX Progenics Pharmaceuticals, Inc.</item>
+        <item>PHII PHI Inc.</item>
+        <item>PHIIK PHI Inc.</item>
+        <item>PHMD PhotoMedex, Inc.</item>
+        <item>PICO PICO Holdings Inc.</item>
+        <item>PINC Premier, Inc.</item>
+        <item>PKOH Park-Ohio Holdings Corp.</item>
+        <item>PKT Procera Networks, Inc.</item>
+        <item>PLAB Photronics Inc.</item>
+        <item>PLAY Dave \u0026 Buster\'s Entertainment, Inc.</item>
+        <item>PLCE The Children\'s Place, Inc.</item>
+        <item>PLCM Polycom, Inc.</item>
+        <item>PLKI Popeyes Louisiana Kitchen, Inc.</item>
+        <item>PLPC Preformed Line Products Company</item>
+        <item>PLUS ePlus inc.</item>
+        <item>PLXS Plexus Corp.</item>
+        <item>PMBC Pacific Mercantile Bancorp</item>
+        <item>PMCS PMC-Sierra Inc.</item>
+        <item>PMFG PMFG, Inc.</item>
+        <item>PMTC PTC Inc.</item>
+        <item>PNFP Pinnacle Financial Partners Inc.</item>
+        <item>PNNT PennantPark Investment Corporat</item>
+        <item>PNRA Panera Bread Company</item>
+        <item>PODD Insulet Corporation</item>
+        <item>POOL Pool Corp.</item>
+        <item>POWI Power Integrations Inc.</item>
+        <item>POWL Powell Industries, Inc.</item>
+        <item>POZN POZEN Inc.</item>
+        <item>PPBI Pacific Premier Bancorp Inc.</item>
+        <item>PPC Pilgrim\'s Pride Corporation</item>
+        <item>PRAA PRA Group, Inc.</item>
+        <item>PRAH PRA Health Sciences, Inc.</item>
+        <item>PRFT Perficient Inc.</item>
+        <item>PRGS Progress Software Corporation</item>
+        <item>PRGX PRGX Global, Inc.</item>
+        <item>PRIM Primoris Services Corporation</item>
+        <item>PROV Provident Financial Holdings, Inc.</item>
+        <item>PRSC Providence Service Corp.</item>
+        <item>PRSS CafePress Inc.</item>
+        <item>PRTA Prothena Corporation plc</item>
+        <item>PRTS U.S. Auto Parts Network, Inc.</item>
+        <item>PRXL PAREXEL International Corporation</item>
+        <item>PSEC Prospect Capital Corporation</item>
+        <item>PSEM Pericom Semiconductor Corp.</item>
+        <item>PSMI Peregrine Semiconductor Corporation</item>
+        <item>PSMT PriceSmart Inc.</item>
+        <item>PSTB Park Sterling Corporation</item>
+        <item>PSUN Pacific Sunwear of California Inc.</item>
+        <item>PTC PTC Inc.</item>
+        <item>PTCT PTC Therapeutics, Inc.</item>
+        <item>PTEN Patterson-UTI Energy Inc.</item>
+        <item>PTIE Pain Therapeutics Inc.</item>
+        <item>PTLA Portola Pharmaceuticals, Inc.</item>
+        <item>PTNR Partner Communications Company Ltd.</item>
+        <item>PTRY The Pantry, Inc.</item>
+        <item>PULB Pulaski Financial Corporation</item>
+        <item>PVTB PrivateBancorp, Inc.</item>
+        <item>PVTBP PrivateBancorp, Inc.</item>
+        <item>PWOD Penns Woods Bancorp Inc.</item>
+        <item>PWRD Perfect World Co., Ltd.</item>
+        <item>PZZA Papa John\'s International Inc.</item>
+        <item>QADA QAD Inc.</item>
+        <item>QADB QAD Inc.</item>
+        <item>QCOM QUALCOMM Incorporated</item>
+        <item>QCOR Questcor Pharmaceuticals, Inc.</item>
+        <item>QDEL Quidel Corp.</item>
+        <item>QGEN Qiagen NV</item>
+        <item>QIWI Qiwi plc</item>
+        <item>QLGC QLogic Corp.</item>
+        <item>QLIK Qlik Technologies, Inc.</item>
+        <item>QLTI QLT Inc.</item>
+        <item>QLYS Qualys, Inc.</item>
+        <item>QNST QuinStreet, Inc.</item>
+        <item>QQQX NASDAQ Premium Income and Growt</item>
+        <item>QSII Quality Systems Inc.</item>
+        <item>QUMU Qumu Corporation</item>
+        <item>QURE uniQure N.V.</item>
+        <item>QVCA Liberty Interactive Corporation</item>
+        <item>QVCB Liberty Interactive Corporation</item>
+        <item>RAIL FreightCar America Inc.</item>
+        <item>RARE Ultragenyx Pharmaceutical Inc.</item>
+        <item>RAVN Raven Industries Inc.</item>
+        <item>RBCAA Republic Bancorp Inc.</item>
+        <item>RBCN Rubicon Technology, Inc.</item>
+        <item>RCII Rent-A-Center, Inc.</item>
+        <item>RCKB United Financial Bancorp, Inc.</item>
+        <item>RCKY Rocky Brands, Inc.</item>
+        <item>RCPT Receptos, Inc.</item>
+        <item>RDA RDA Microelectronics, Inc.</item>
+        <item>RDEN Elizabeth Arden, Inc.</item>
+        <item>RDWR Radware Ltd.</item>
+        <item>RECN Resources Connection Inc.</item>
+        <item>REGI Renewable Energy Group, Inc.</item>
+        <item>REGN Regeneron Pharmaceuticals, Inc.</item>
+        <item>REIS Reis, Inc.</item>
+        <item>RELL Richardson Electronics Ltd.</item>
+        <item>RELV Reliv International, Inc.</item>
+        <item>REMY Remy International, Inc.</item>
+        <item>RENT Rentrak Corporation</item>
+        <item>REXI Resource America, Inc.</item>
+        <item>REXX Rex Energy Corporation</item>
+        <item>RFMD RF Micro Devices Inc.</item>
+        <item>RGEN Repligen Corporation</item>
+        <item>RGLD Royal Gold, Inc.</item>
+        <item>RIGL Rigel Pharmaceuticals, Inc.</item>
+        <item>RIMG Rimage Corporation</item>
+        <item>RJET Republic Airways Holdings Inc.</item>
+        <item>RLOC ReachLocal, Inc.</item>
+        <item>RLYP Relypsa, Inc.</item>
+        <item>RMBS Rambus Inc.</item>
+        <item>RNA Prosensa Holding N.V.</item>
+        <item>RNET RigNet, Inc.</item>
+        <item>RNST Renasant Corp.</item>
+        <item>RNWK RealNetworks Inc.</item>
+        <item>ROCK Gibraltar Industries, Inc.</item>
+        <item>ROIC Retail Opportunity Investments Corp.</item>
+        <item>ROICU Retail Opportunity Investments </item>
+        <item>ROICW Retail Opportunity Investments </item>
+        <item>ROLL RBC Bearings Inc.</item>
+        <item>ROMA Roma Financial Corp.</item>
+        <item>ROSE Rosetta Resources, Inc.</item>
+        <item>ROST Ross Stores Inc.</item>
+        <item>ROVI Rovi Corporation</item>
+        <item>RP RealPage, Inc.</item>
+        <item>RPXC RPX Corporation</item>
+        <item>RRD R.R. Donnelley \u0026 Sons Company</item>
+        <item>RRGB Red Robin Gourmet Burgers Inc.</item>
+        <item>RRST RRSat Global Communications Network Ltd.</item>
+        <item>RSTI Rofin-Sinar Technologies Inc.</item>
+        <item>RSYS RadiSys Corporation</item>
+        <item>RTIX RTI Surgical Inc.</item>
+        <item>RUE rue21, Inc.</item>
+        <item>RUSHA Rush Enterprises, Inc.</item>
+        <item>RUSHB Rush Enterprises, Inc.</item>
+        <item>RUTH Ruth\'s Hospitality Group Inc.</item>
+        <item>RVBD Riverbed Technology, Inc.</item>
+        <item>RVSB Riverview Bancorp Inc.</item>
+        <item>RYAAY Ryanair Holdings plc</item>
+        <item>SABR Sabre Corporation</item>
+        <item>SAFM Sanderson Farms, Inc.</item>
+        <item>SAFT Safety Insurance Group Inc.</item>
+        <item>SAIA Saia, Inc.</item>
+        <item>SALE RetailMeNot, Inc.</item>
+        <item>SANM Sanmina Corporation</item>
+        <item>SAPE Sapient Corp.</item>
+        <item>SASR Sandy Spring Bancorp Inc.</item>
+        <item>SATS EchoStar Corp.</item>
+        <item>SAVE Spirit Airlines, Inc.</item>
+        <item>SBAC SBA Communications Corp.</item>
+        <item>SBCF Seacoast Banking Corp. of Florida</item>
+        <item>SBGI Sinclair Broadcast Group, Inc.</item>
+        <item>SBLK Star Bulk Carriers Corp.</item>
+        <item>SBLKL Star Bulk Carriers Corp.</item>
+        <item>SBNY Signature Bank</item>
+        <item>SBNYW Signature Bank</item>
+        <item>SBRA Sabra Health Care REIT, Inc.</item>
+        <item>SBRAP Sabra Health Care REIT, Inc.</item>
+        <item>SBSI Southside Bancshares Inc.</item>
+        <item>SBUX Starbucks Corporation</item>
+        <item>SCAI Surgical Care Affiliates, Inc.</item>
+        <item>SCHL Scholastic Corporation</item>
+        <item>SCHN Schnitzer Steel Industries, Inc.</item>
+        <item>SCLN SciClone Pharmaceuticals, Inc.</item>
+        <item>SCOR comScore, Inc.</item>
+        <item>SCSC ScanSource, Inc.</item>
+        <item>SCSS Select Comfort Corporation</item>
+        <item>SCTY SolarCity Corporation</item>
+        <item>SCVL Shoe Carnival Inc.</item>
+        <item>SEAC SeaChange International Inc.</item>
+        <item>SEED Origin Agritech Limited</item>
+        <item>SEIC SEI Investments Co.</item>
+        <item>SEMI SunEdison Semiconductor Limited</item>
+        <item>SENEA Seneca Foods Corp.</item>
+        <item>SENEB Seneca Foods Corp.</item>
+        <item>SFBS ServisFirst Bancshares, Inc.</item>
+        <item>SFLY Shutterfly, Inc.</item>
+        <item>SFM Sprouts Farmers Market, Inc.</item>
+        <item>SFNC Simmons First National Corporation</item>
+        <item>SFXE SFX Entertainment Inc.</item>
+        <item>SGBK Stonegate Bank</item>
+        <item>SGEN Seattle Genetics Inc.</item>
+        <item>SGI Silicon Graphics International Corp.</item>
+        <item>SGMO Sangamo Biosciences Inc.</item>
+        <item>SGMS Scientific Games Corporation</item>
+        <item>SGNT Sagent Pharmaceuticals, Inc.</item>
+        <item>SGYP Synergy Pharmaceuticals, Inc.</item>
+        <item>SHBI Shore Bancshares, Inc.</item>
+        <item>SHEN Shenandoah Telecommunications Co.</item>
+        <item>SHFL SHFL entertainment, Inc.</item>
+        <item>SHLD Sears Holdings Corporation</item>
+        <item>SHLDR Sears Holdings Corporation</item>
+        <item>SHLDV Sears Holdings Corporation</item>
+        <item>SHLDW Sears Holdings Corporation</item>
+        <item>SHLDZ Sears Holdings Corporation</item>
+        <item>SHLM A. Schulman, Inc.</item>
+        <item>SHLO Shiloh Industries Inc.</item>
+        <item>SHOO Steven Madden, Ltd.</item>
+        <item>SHOR ShoreTel, Inc.</item>
+        <item>SHPG Shire plc</item>
+        <item>SIAL Sigma-Aldrich Corporation</item>
+        <item>SIEN Sientra, Inc.</item>
+        <item>SIFY Sify Technologies Limited</item>
+        <item>SIGI Selective Insurance Group Inc.</item>
+        <item>SIGM Sigma Designs, Inc.</item>
+        <item>SILC Silicom Ltd.</item>
+        <item>SIMG Silicon Image, Inc.</item>
+        <item>SIMO Silicon Motion Technology Corp.</item>
+        <item>SINA SINA Corporation</item>
+        <item>SIRI Sirius XM Holdings Inc.</item>
+        <item>SIRO Sirona Dental Systems Inc.</item>
+        <item>SIVB SVB Financial Group</item>
+        <item>SIVBO SVB Financial Group</item>
+        <item>SKUL Skullcandy, Inc.</item>
+        <item>SKYW SkyWest Inc.</item>
+        <item>SLAB Silicon Laboratories Inc.</item>
+        <item>SLGN Silgan Holdings Inc.</item>
+        <item>SLM SLM Corporation</item>
+        <item>SLMAP SLM Corporation</item>
+        <item>SLMBP SLM Corporation</item>
+        <item>SLMVV SLM Corporation</item>
+        <item>SLRC Solar Capital Ltd.</item>
+        <item>SLXP Salix Pharmaceuticals Ltd.</item>
+        <item>SMCI Super Micro Computer, Inc.</item>
+        <item>SMPL Simplicity Bancorp, Inc.</item>
+        <item>SMRT Stein Mart Inc.</item>
+        <item>SMSI Smith Micro Software Inc.</item>
+        <item>SMT Smart Technologies Inc.</item>
+        <item>SMTC Semtech Corporation</item>
+        <item>SNAK Inventure Foods, Inc.</item>
+        <item>SNBC Sun Bancorp Inc.</item>
+        <item>SNC State National Companies, Inc.</item>
+        <item>SNCR Synchronoss Technologies, Inc.</item>
+        <item>SNDK SanDisk Corp.</item>
+        <item>SNHY Sun Hydraulics Corp.</item>
+        <item>SNPS Synopsys Inc.</item>
+        <item>SNTS Santarus, Inc.</item>
+        <item>SODA SodaStream International Ltd.</item>
+        <item>SOHU Sohu.com Inc.</item>
+        <item>SONC Sonic Corp.</item>
+        <item>SONS Sonus Networks, Inc.</item>
+        <item>SP SP Plus Corporation</item>
+        <item>SPAR Spartan Motors Inc.</item>
+        <item>SPIL Siliconware Precision Industries Co. Ltd.</item>
+        <item>SPKE Spark Energy, Inc.</item>
+        <item>SPLK Splunk, Inc.</item>
+        <item>SPLS Staples, Inc.</item>
+        <item>SPNC The Spectranetics Corporation</item>
+        <item>SPOK Spok Holdings, Inc.</item>
+        <item>SPPI Spectrum Pharmaceuticals, Inc.</item>
+        <item>SPRD Spreadtrum Communications Inc.</item>
+        <item>SPRT Support.com, Inc.</item>
+        <item>SPSC SPS Commerce, Inc.</item>
+        <item>SPTN SpartanNash Company</item>
+        <item>SPWH Sportsman\'s Warehouse Holdings, Inc.</item>
+        <item>SPWR SunPower Corporation</item>
+        <item>SQBK Square 1 Financial, Inc.</item>
+        <item>SQI SciQuest, Inc.</item>
+        <item>SQNM Sequenom Inc.</item>
+        <item>SRCE 1st Source Corporation</item>
+        <item>SRCL Stericycle, Inc.</item>
+        <item>SRDX SurModics, Inc.</item>
+        <item>SREV ServiceSource International, Inc.</item>
+        <item>SRPT Sarepta Therapeutics, Inc.</item>
+        <item>SRSC Sears Canada Inc.</item>
+        <item>SSB South State Corporation</item>
+        <item>SSNC SS\u0026C; Technologies Holdings, Inc.</item>
+        <item>SSRI Silver Standard Resources Inc.</item>
+        <item>SSYS Stratasys Ltd.</item>
+        <item>STB Student Transportation, Inc.</item>
+        <item>STBA S\u0026T; Bancorp Inc.</item>
+        <item>STCK Stock Building Supply Holdings, Inc.</item>
+        <item>STEC STEC, Inc.</item>
+        <item>STEI Stewart Enterprises Inc.</item>
+        <item>STEL StellarOne Corporation</item>
+        <item>STFC State Auto Financial Corp.</item>
+        <item>STKL SunOpta Inc.</item>
+        <item>STLD Steel Dynamics Inc.</item>
+        <item>STLY Stanley Furniture Co. Inc.</item>
+        <item>STMP Stamps.com Inc.</item>
+        <item>STNR Steiner Leisure Ltd.</item>
+        <item>STRA Strayer Education Inc.</item>
+        <item>STRL Sterling Construction Co. Inc.</item>
+        <item>STRS Stratus Properties Inc.</item>
+        <item>STRZA Starz</item>
+        <item>STRZB Starz</item>
+        <item>STX Seagate Technology Public Limited Company</item>
+        <item>SUBK Suffolk Bancorp</item>
+        <item>SUNS Solar Senior Capital Ltd.</item>
+        <item>SUPX Supertex Inc.</item>
+        <item>SUSQ Susquehanna Bancshares, Inc.</item>
+        <item>SVA Sinovac Biotech Ltd.</item>
+        <item>SVVC Firsthand Technology Value Fund</item>
+        <item>SWHC Smith \u0026 Wesson Holding Corporation</item>
+        <item>SWIR Sierra Wireless Inc.</item>
+        <item>SWKS Skyworks Solutions Inc.</item>
+        <item>SYBT Stock Yards Bancorp, Inc.</item>
+        <item>SYKE Sykes Enterprises, Incorporated</item>
+        <item>SYMC Symantec Corporation</item>
+        <item>SYMM Symmetricom Inc.</item>
+        <item>SYNA Synaptics Inc.</item>
+        <item>SYNT Syntel, Inc.</item>
+        <item>SYUT Synutra International Inc.</item>
+        <item>SZMK Sizmek Inc.</item>
+        <item>SZYM Solazyme, Inc.</item>
+        <item>TASR TASER International Inc.</item>
+        <item>TAST Carrols Restaurant Group, Inc.</item>
+        <item>TAX Liberty Tax, Inc.</item>
+        <item>TAXI Medallion Financial Corp.</item>
+        <item>TAYC Taylor Capital Group Inc.</item>
+        <item>TAYCP MB Financial Inc.</item>
+        <item>TBBK The Bancorp Inc.</item>
+        <item>TBK Triumph Bancorp, Inc.</item>
+        <item>TBNK Territorial Bancorp Inc.</item>
+        <item>TCBI Texas Capital BancShares Inc.</item>
+        <item>TCBIL Texas Capital BancShares Inc.</item>
+        <item>TCBIP Texas Capital BancShares Inc.</item>
+        <item>TCBIW Texas Capital Bancshares, Inc.</item>
+        <item>TCBK TriCo Bancshares</item>
+        <item>TCPC TCP Capital Corp.</item>
+        <item>TCRD THL Credit, Inc.</item>
+        <item>TECD Tech Data Corp.</item>
+        <item>TECH Bio-Techne Corp.</item>
+        <item>TECU Tecumseh Products Company</item>
+        <item>TECUA Tecumseh Products Company</item>
+        <item>TECUB Tecumseh Products Company</item>
+        <item>TEDU Tarena International, Inc.</item>
+        <item>TERP TerraForm Power, Inc.</item>
+        <item>TESO Tesco Corporation</item>
+        <item>TESS TESSCO Technologies Inc.</item>
+        <item>TFM The Fresh Market, Inc.</item>
+        <item>TFSL TFS Financial Corp</item>
+        <item>TGA TransGlobe Energy Corporation</item>
+        <item>TGE TGC Industries Inc.</item>
+        <item>THFF First Financial Corp.</item>
+        <item>THOR Thoratec Corp.</item>
+        <item>THRM Gentherm Incorporated</item>
+        <item>THRX Theravance Inc.</item>
+        <item>TIBX TIBCO Software Inc.</item>
+        <item>TICC TICC Capital Corp.</item>
+        <item>TILE Interface Inc.</item>
+        <item>TITN Titan Machinery, Inc.</item>
+        <item>TIVO TiVo Inc.</item>
+        <item>TLAB Tellabs Inc.</item>
+        <item>TNAV Telenav, Inc.</item>
+        <item>TNGO Tangoe, Inc.</item>
+        <item>TOPS Top Ships Inc.</item>
+        <item>TOWN Towne Bank</item>
+        <item>TQNT TriQuint Semiconductor, Inc.</item>
+        <item>TRAK Dealertrack Technologies, Inc.</item>
+        <item>TREE Tree.Com, Inc.</item>
+        <item>TRGT Targacept, Inc.</item>
+        <item>TRIB Trinity Biotech plc</item>
+        <item>TRIP TripAdvisor Inc.</item>
+        <item>TRIV TriVascular Technologies, Inc.</item>
+        <item>TRLG True Religion Apparel, Inc.</item>
+        <item>TRMB Trimble Navigation Limited</item>
+        <item>TRMK Trustmark Corporation</item>
+        <item>TRNX Tornier N.V.</item>
+        <item>TROW T. Rowe Price Group, Inc.</item>
+        <item>TRS TriMas Corporation</item>
+        <item>TRST TrustCo Bank Corp. NY</item>
+        <item>TRUE TrueCar, Inc.</item>
+        <item>TRVN Trevena, Inc.</item>
+        <item>TSC Tristate Capital Holdings, Inc.</item>
+        <item>TSCO Tractor Supply Company</item>
+        <item>TSEM Tower Semiconductor Ltd.</item>
+        <item>TSLA Tesla Motors, Inc.</item>
+        <item>TSRA Tessera Technologies Inc.</item>
+        <item>TSRO Tesaro, Inc.</item>
+        <item>TSYS TeleCommunication Systems Inc.</item>
+        <item>TTEC TeleTech Holdings Inc.</item>
+        <item>TTEK Tetra Tech Inc.</item>
+        <item>TTMI TTM Technologies Inc.</item>
+        <item>TTPH Tetraphase Pharmaceuticals, Inc.</item>
+        <item>TTS Tile Shop Holdings, Inc.</item>
+        <item>TTWO Take-Two Interactive Software Inc.</item>
+        <item>TUBE TubeMogul, Inc.</item>
+        <item>TUES Tuesday Morning Corporation</item>
+        <item>TWGP Tower Group International, Ltd.</item>
+        <item>TWIN Twin Disc, Incorporated</item>
+        <item>TWOU 2U, Inc.</item>
+        <item>TWTC TW Telecom Inc.</item>
+        <item>TXN Texas Instruments Inc.</item>
+        <item>TXRH Texas Roadhouse, Inc.</item>
+        <item>TYPE Monotype Imaging Holdings Inc.</item>
+        <item>TZOO Travelzoo Inc.</item>
+        <item>UACL Universal Truckload Services Inc.</item>
+        <item>UBFO United Security Bancshares</item>
+        <item>UBIC UBIC, Inc.</item>
+        <item>UBNK United Financial Bancorp, Inc.</item>
+        <item>UBNT Ubiquiti Networks, Inc.</item>
+        <item>UBSH Union Bankshares Corporation</item>
+        <item>UBSI United Bankshares Inc.</item>
+        <item>UCBI United Community Banks, Inc.</item>
+        <item>UCFC United Community Financial Corp.</item>
+        <item>UCTT Ultra Clean Holdings Inc.</item>
+        <item>UDF United Development Funding IV</item>
+        <item>UEIC Universal Electronics Inc.</item>
+        <item>UEPS Net 1 Ueps Technologies Inc.</item>
+        <item>UFCS United Fire Group, Inc</item>
+        <item>UFPI Universal Forest Products Inc.</item>
+        <item>UHAL AMERCO</item>
+        <item>ULTA ULTA Salon, Cosmetics \u0026 Fragrance, Inc.</item>
+        <item>ULTI The Ultimate Software Group, Inc.</item>
+        <item>ULTR Ultrapetrol (Bahamas) Ltd.</item>
+        <item>UMBF UMB Financial Corporation</item>
+        <item>UMPQ Umpqua Holdings Corporation</item>
+        <item>UNFI United Natural Foods, Inc.</item>
+        <item>UNTD United Online, Inc.</item>
+        <item>UNTDV United Online, Inc.</item>
+        <item>UPIP Unwired Planet, Inc.</item>
+        <item>URBN Urban Outfitters Inc.</item>
+        <item>USAK USA Truck Inc.</item>
+        <item>USAP Universal Stainless \u0026 Alloy Products Inc.</item>
+        <item>USLM United States Lime \u0026 Minerals, Inc.</item>
+        <item>USMO USA Mobility, Inc.</item>
+        <item>USTR United Stationers Inc.</item>
+        <item>UTEK Ultratech, Inc.</item>
+        <item>UTHR United Therapeutics Corporation</item>
+        <item>UTIW UTi Worldwide Inc.</item>
+        <item>UTMD Utah Medical Products Inc.</item>
+        <item>UTSI UTStarcom Holdings Corp.</item>
+        <item>UVSP Univest Corporation of Pennsylvania</item>
+        <item>VA Virgin America Inc.</item>
+        <item>VASC Vascular Solutions Inc.</item>
+        <item>VCBI Virginia Commerce Bancorp Inc.</item>
+        <item>VECO Veeco Instruments Inc.</item>
+        <item>VELT Velti Plc</item>
+        <item>VIA Viacom, Inc.</item>
+        <item>VIAB Viacom, Inc.</item>
+        <item>VICL Vical Incorporated</item>
+        <item>VICR Vicor Corp.</item>
+        <item>VIEW Viewtran Group, Inc.</item>
+        <item>VIP VimpelCom Ltd.</item>
+        <item>VISN VisionChina Media Inc.</item>
+        <item>VITC Vitacost.com, Inc.</item>
+        <item>VIVO Meridian Bioscience, Inc.</item>
+        <item>VLCCF Knightsbridge Shipping Limited</item>
+        <item>VLGEA Village Super Market Inc.</item>
+        <item>VLTR Volterra Semiconductor Corporation</item>
+        <item>VNET 21Vianet Group, Inc.</item>
+        <item>VNOM Viper Energy Partners LP</item>
+        <item>VNR Vanguard Natural Resources, LLC</item>
+        <item>VNRAP Vanguard Natural Resources, LLC</item>
+        <item>VNRBP Vanguard Natural Resources, LLC</item>
+        <item>VNRCP Vanguard Natural Resources, LLC</item>
+        <item>VOCS Vocus Inc.</item>
+        <item>VOD Vodafone Group Public Limited Company</item>
+        <item>VOLC Volcano Corporation</item>
+        <item>VOXX VOXX International Corporation</item>
+        <item>VPFG ViewPoint Financial Group, Inc.</item>
+        <item>VPRT Cimpress N.V.</item>
+        <item>VRA Vera Bradley, Inc.</item>
+        <item>VRNS Varonis Systems, Inc.</item>
+        <item>VRNT Verint Systems Inc.</item>
+        <item>VRSK Verisk Analytics, Inc.</item>
+        <item>VRSN VeriSign, Inc.</item>
+        <item>VRTB Vestin Realty Mortgage II, Inc.</item>
+        <item>VRTS Virtus Investment Partners, Inc.</item>
+        <item>VRTU Virtusa  Corp.</item>
+        <item>VRTX Vertex Pharmaceuticals Incorporated</item>
+        <item>VSAR Versartis, Inc.</item>
+        <item>VSAT ViaSat Inc.</item>
+        <item>VSEC VSE Corp.</item>
+        <item>VTL Vital Therapies, Inc.</item>
+        <item>VTNC Vitran Corp Inc.</item>
+        <item>VVTV EVINE Live Inc.</item>
+        <item>VVUS VIVUS Inc.</item>
+        <item>VWR VWR Corporation</item>
+        <item>WABC Westamerica Bancorp.</item>
+        <item>WAFD Washington Federal Inc.</item>
+        <item>WAFDW Washington Federal, Inc.</item>
+        <item>WASH Washington Trust Bancorp Inc.</item>
+        <item>WB Weibo Corporation</item>
+        <item>WBCO Washington Banking Co.</item>
+        <item>WBMD WebMD Health Corp.</item>
+        <item>WCBOD West Coast Bancorp</item>
+        <item>WCRX Warner Chilcott plc</item>
+        <item>WDC Western Digital Corporation</item>
+        <item>WDFC WD-40 Company</item>
+        <item>WEN The Wendy\'s Company</item>
+        <item>WERN Werner Enterprises Inc.</item>
+        <item>WETF WisdomTree Investments, Inc.</item>
+        <item>WEYS Weyco Group Inc.</item>
+        <item>WFD Westfield Financial Inc.</item>
+        <item>WFM Whole Foods Market, Inc.</item>
+        <item>WHF WhiteHorse Finance, Inc.</item>
+        <item>WHFBL WhiteHorse Finance, Inc.</item>
+        <item>WIBC Wilshire Bancorp Inc.</item>
+        <item>WIFI Boingo Wireless, Inc.</item>
+        <item>WILN Wi-Lan Inc.</item>
+        <item>WIN Windstream Holdings, Inc.</item>
+        <item>WIRE Encore Wire Corp.</item>
+        <item>WIX Wix.com Ltd.</item>
+        <item>WMAR West Marine Inc.</item>
+        <item>WMGI Wright Medical Group Inc.</item>
+        <item>WOOF VCA Inc.</item>
+        <item>WPPGY WPP plc</item>
+        <item>WPRT Westport Innovations Inc.</item>
+        <item>WRES Warren Resources Inc.</item>
+        <item>WRLD World Acceptance Corp.</item>
+        <item>WSBC WesBanco Inc.</item>
+        <item>WSBF Waterstone Financial, Inc.</item>
+        <item>WSFS WSFS Financial Corp.</item>
+        <item>WSFSL WSFS Financial Corp.</item>
+        <item>WSTC West Corporation</item>
+        <item>WSTL Westell Technologies, Inc.</item>
+        <item>WTBA West Bancorp., Inc.</item>
+        <item>WTFC Wintrust Financial Corporation</item>
+        <item>WTFCW Wintrust Financial Corporation</item>
+        <item>WTSL The Wet Seal, Inc.</item>
+        <item>WWD Woodward, Inc.</item>
+        <item>WWWW Web.com Group, Inc.</item>
+        <item>WYNN Wynn Resorts Ltd.</item>
+        <item>XCRA Xcerra Corporation</item>
+        <item>XLNX Xilinx Inc.</item>
+        <item>XNET Xunlei Limited</item>
+        <item>XNPT Xenoport, Inc.</item>
+        <item>XONE The ExOne Company</item>
+        <item>XOOM Xoom Corporation</item>
+        <item>XRAY DENTSPLY International Inc.</item>
+        <item>XRTX Xyratex Ltd.</item>
+        <item>XTEX Crosstex Energy LP</item>
+        <item>XTXI Crosstex Energy Inc.</item>
+        <item>XXIA Ixia</item>
+        <item>YDLE Yodlee, Inc.</item>
+        <item>YHOO Yahoo! Inc.</item>
+        <item>YNDX Yandex N.V.</item>
+        <item>YONG Yongye International, Inc.</item>
+        <item>YORW The York Water Company</item>
+        <item>YRCW YRC Worldwide Inc.</item>
+        <item>YY YY Inc.</item>
+        <item>Z Zillow, Inc.</item>
+        <item>ZAGG ZAGG Inc</item>
+        <item>ZBRA Zebra Technologies Corp.</item>
+        <item>ZEUS Olympic Steel Inc.</item>
+        <item>ZFGN Zafgen, Inc.</item>
+        <item>ZIGO Zygo Corporation</item>
+        <item>ZINC Horsehead Holding Corp.</item>
+        <item>ZION Zions Bancorporation</item>
+        <item>ZIONW Zions Bancorporation</item>
+        <item>ZIONZ Zions Bancorporation</item>
+        <item>ZIXI Zix Corporation</item>
+        <item>ZLTQ ZELTIQ Aesthetics, Inc.</item>
+        <item>ZNGA Zynga, Inc.</item>
+        <item>ZOLT Zoltek Companies Inc.</item>
+        <item>ZU zulily, Inc.</item>
+        <item>ZUMZ Zumiez, Inc.</item>
     </string-array>
 </resources>

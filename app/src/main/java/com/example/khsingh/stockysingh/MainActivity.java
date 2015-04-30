@@ -2,9 +2,11 @@ package com.example.khsingh.stockysingh;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -24,7 +26,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
     int mStockValue = 0; //HoldsNumber of Stocks
     Double mStockTradingAt = 73.21, mLocalCurrencyExchangeRate = 62.55, mAmountInLocalCurrency;
     AutoCompleteTextView mStockSymbol;
+    String StockSelected;
     final int REQ_CODE_CURRENCY_SYMBOL = 2, REQ_CODE_STOCK_SYMBOL=3;
+    public static final String PREFS_NAME = "MyPrefsFile";
 
 
     @Override
@@ -32,6 +36,16 @@ public class MainActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
+        SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+        mStockValue = settings.getInt("StockCount", -1);
+        Log.d("Yahoo",String.valueOf(mStockValue));
+        mStock.setText(String.valueOf(mStockValue));
+
+        StockSelected = settings.getString("StockSelected","NoStockSelected");
+        Log.d("Yahoo",String.valueOf(StockSelected));
+        mStockSymbol2.setText(String.valueOf(StockSelected));
+
+
     }
 
     private void initViews() {
@@ -43,9 +57,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
         mStock.setOnKeyListener(mStocksFieldListener);
         mCurrencyCode.setOnClickListener(this);
         mStockSymbol2.setOnClickListener(this);
-        //mStockSymbol.addTextChangedListener(this);
-
-        //mStock.addTextChangedListener(); // read and use it in place of OnKeyListener
+        /*
+        mStockSymbol.addTextChangedListener(this);
+        mStock.addTextChangedListener(); // read and use it in place of OnKeyListener
+        */
     }
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -81,6 +96,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 startActivityForResult(intent,REQ_CODE_STOCK_SYMBOL);
             }
             break;
+            default:
+            {
+                Toast.makeText(getBaseContext(), "No view selected yet", Toast.LENGTH_SHORT).show();
+            }
 
         }
     }//OnClick Ends
@@ -122,6 +141,29 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     };
 
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Log.d("Pause","onPause Called");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+
+        // We need an Editor object to make preference changes.
+        // All objects are from android.context.Context
+        SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+        SharedPreferences.Editor editor = settings.edit();
+        editor.putInt("StockCount", Integer.parseInt(mStock.getText().toString()));
+        editor.putString("StockSelected", mStockSymbol2.getText().toString());
+        Log.d("Stop","onStop Called");
+
+        // Commit the edits!
+        editor.commit();
+    }
+
+    function searchYQL()
 }
 
 
