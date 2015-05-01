@@ -66,10 +66,13 @@ public class MainActivity extends Activity implements View.OnClickListener {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-        if (requestCode == REQ_CODE_CURRENCY_SYMBOL) {
+        Log.d("Debug","requestCode: " + requestCode);
+        Log.d("Debug","resultCode: " + resultCode);
+
+        if (requestCode == REQ_CODE_CURRENCY_SYMBOL && Activity.RESULT_OK == resultCode) {
             String message = data.getStringExtra("MESSAGE");
             mCurrencyCode.setText(message);
-        }else if(requestCode == REQ_CODE_STOCK_SYMBOL){
+        }else if(requestCode == REQ_CODE_STOCK_SYMBOL && Activity.RESULT_OK == resultCode){
             String message = data.getStringExtra("MESSAGE");
             mStockSymbol2.setText(message);
         }
@@ -163,7 +166,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         editor.commit();
     }
 
-    function searchYQL()
 }
 
 

@@ -53,7 +53,7 @@ public class MainCurrencyCodeSelector extends Activity {
                }
                 Intent intent = new Intent(MainCurrencyCodeSelector.this, MainActivity.class);
                 intent.putExtra("MESSAGE", message);
-                setResult(2, intent);
+                setResult(Activity.RESULT_OK, intent);
                 finish();
 
 

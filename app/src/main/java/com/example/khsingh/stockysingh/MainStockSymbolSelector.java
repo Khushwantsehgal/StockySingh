@@ -42,7 +42,7 @@ public class MainStockSymbolSelector extends Activity {
                 }
                 Intent intent = new Intent(MainStockSymbolSelector.this, MainActivity.class);
                 intent.putExtra("MESSAGE", first);
-                setResult(3, intent);
+                setResult(Activity.RESULT_OK, intent);
                 finish();
             }
         });
