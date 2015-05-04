@@ -1753,4 +1753,6 @@
         <item>ZU zulily, Inc.</item>
         <item>ZUMZ Zumiez, Inc.</item>
     </string-array>
+    <string name="pref_mypref_key">mypref</string>
+    <string name="pref_mypref_default">blah</string>
 </resources>

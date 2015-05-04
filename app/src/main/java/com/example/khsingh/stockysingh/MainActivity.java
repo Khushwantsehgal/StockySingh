@@ -4,12 +4,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -26,7 +23,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     int mStockValue = 0; //HoldsNumber of Stocks
     Double mStockTradingAt = 73.21, mLocalCurrencyExchangeRate = 62.55, mAmountInLocalCurrency;
     AutoCompleteTextView mStockSymbol;
-    String StockSelected;
+    String StockSelected,CurrencySelected;
     final int REQ_CODE_CURRENCY_SYMBOL = 2, REQ_CODE_STOCK_SYMBOL=3;
     public static final String PREFS_NAME = "MyPrefsFile";
 
@@ -36,17 +33,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
-        SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
-        mStockValue = settings.getInt("StockCount", -1);
-        Log.d("Yahoo",String.valueOf(mStockValue));
-        mStock.setText(String.valueOf(mStockValue));
-
-        StockSelected = settings.getString("StockSelected","NoStockSelected");
-        Log.d("Yahoo",String.valueOf(StockSelected));
-        mStockSymbol2.setText(String.valueOf(StockSelected));
-
-
-    }
+    } // onCreate Ends
 
     private void initViews() {
         mStock = (EditText) findViewById(R.id.et_Stocks);
@@ -54,20 +41,51 @@ public class MainActivity extends Activity implements View.OnClickListener {
         mCurrencyCode = (TextView) findViewById(R.id.tv_CurrencyCode);
         mStockSymbol2 = (TextView) findViewById(R.id.tv_StocksSymbol);
 
-        mStock.setOnKeyListener(mStocksFieldListener);
-        mCurrencyCode.setOnClickListener(this);
-        mStockSymbol2.setOnClickListener(this);
+        // Reads the default values from preferences and passes the value to corresponding fields.
+
+        {
+            SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+
+            mStockValue = settings.getInt("StockCount", 0);
+            Log.d("StockCount", String.valueOf(mStockValue));
+            mStock.setText(String.valueOf(mStockValue));
+
+            StockSelected = settings.getString("StockSelected", "ADBE");
+            Log.d("StockSelected", String.valueOf(StockSelected));
+            mStockSymbol2.setText(String.valueOf(StockSelected));
+
+            CurrencySelected = settings.getString("CurrencySelected", "INR");
+            Log.d("CurrencySelected", String.valueOf(CurrencySelected));
+            mCurrencyCode.setText(String.valueOf(CurrencySelected));
+
+        }
+
+        {
+            mStock.setOnKeyListener(mStocksFieldListener); // Reads the number of stocks and calculate the value of stocks in real time.
+            mStock.dispatchKeyEvent(new KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_1)); // Sends the KeyEvent Action UP and it causes the calculation to happen for stored value of mStock. It is only for the value stored in preferences.
+        }
+
+        {
+            mCurrencyCode.setOnClickListener(this); // Opens a new activity to select currency codes
+            mStockSymbol2.setOnClickListener(this); // Opens a new activity to select stockSymbols
+
+        }
+
+
         /*
         mStockSymbol.addTextChangedListener(this);
         mStock.addTextChangedListener(); // read and use it in place of OnKeyListener
         */
-    }
+    } //init views ends
+
+    // Receives result from CurrencyCode/StockSymbol activities and sets the value for corresponding fields.
+    
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
         Log.d("Debug","requestCode: " + requestCode);
-        Log.d("Debug","resultCode: " + resultCode);
+        Log.d("Debug", "resultCode: " + resultCode);
 
         if (requestCode == REQ_CODE_CURRENCY_SYMBOL && Activity.RESULT_OK == resultCode) {
             String message = data.getStringExtra("MESSAGE");
@@ -76,7 +94,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
             String message = data.getStringExtra("MESSAGE");
             mStockSymbol2.setText(message);
         }
-    }
+    } // onActivityResult ends
 
     private boolean isEmpty(EditText etText) {
         Toast.makeText(getApplicationContext(), " Length: " + etText.getText().toString().trim().length(), Toast.LENGTH_SHORT).show();
@@ -160,6 +178,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         SharedPreferences.Editor editor = settings.edit();
         editor.putInt("StockCount", Integer.parseInt(mStock.getText().toString()));
         editor.putString("StockSelected", mStockSymbol2.getText().toString());
+        editor.putString("CurrencySelected", mCurrencyCode.getText().toString());
         Log.d("Stop","onStop Called");
 
         // Commit the edits!
