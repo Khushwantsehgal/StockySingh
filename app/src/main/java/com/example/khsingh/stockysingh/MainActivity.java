@@ -12,6 +12,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import org.json.JSONException;
+
 import java.text.DecimalFormat;
 
 
@@ -33,6 +35,12 @@ public class MainActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
+        StockyRestController SRC = new StockyRestController();
+        try {
+            SRC.getPublicTimeline();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     } // onCreate Ends
 
     private void initViews() {
