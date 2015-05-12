@@ -3,6 +3,7 @@ package com.example.khsingh.stockysingh;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -13,34 +14,32 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.text.DecimalFormat;
+import java.util.concurrent.ExecutionException;
 
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
 
-    EditText mStock; //Edittext for  Number of Stocks
+    EditText mStock,mStockTrader; //Edittext for  Number of Stocks
     TextView mFinalAmount, mCurrencyCode,mStockSymbol2; //Holds Calculated final value, and Currency Code
     int mStockValue = 0; //HoldsNumber of Stocks
-    Double mStockTradingAt = 73.21, mLocalCurrencyExchangeRate = 62.55, mAmountInLocalCurrency;
+    Double mStockTradingAt = 0.00, mLocalCurrencyExchangeRate = 64.39, mAmountInLocalCurrency;
     AutoCompleteTextView mStockSymbol;
     String StockSelected,CurrencySelected;
     final int REQ_CODE_CURRENCY_SYMBOL = 2, REQ_CODE_STOCK_SYMBOL=3;
     public static final String PREFS_NAME = "MyPrefsFile";
-
+    public static String mLastTradePriceOnly;
+    private static String mYQLQuery = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.quote%20where%20symbol%20in%20%28%22ADBE%22%29&format=json&diagnostics=true&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback=";
+    //private static String mYQLQuery = "http://api.androidhive.info/contacts/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
-        StockyRestController SRC = new StockyRestController();
-        try {
-            SRC.getPublicTimeline();
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
     } // onCreate Ends
 
     private void initViews() {
@@ -48,6 +47,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         mFinalAmount = (TextView) findViewById(R.id.FinalAmount_textview);
         mCurrencyCode = (TextView) findViewById(R.id.tv_CurrencyCode);
         mStockSymbol2 = (TextView) findViewById(R.id.tv_StocksSymbol);
+        mStockTrader = (EditText) findViewById(R.id.et_StocksTrader);
 
         // Reads the default values from preferences and passes the value to corresponding fields.
 
@@ -68,6 +68,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
         }
 
+
+
         {
             mStock.setOnKeyListener(mStocksFieldListener); // Reads the number of stocks and calculate the value of stocks in real time.
             mStock.dispatchKeyEvent(new KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_1)); // Sends the KeyEvent Action UP and it causes the calculation to happen for stored value of mStock. It is only for the value stored in preferences.
@@ -78,6 +80,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
             mStockSymbol2.setOnClickListener(this); // Opens a new activity to select stockSymbols
 
         }
+
+
 
 
         /*
@@ -151,8 +155,12 @@ public class MainActivity extends Activity implements View.OnClickListener {
                     } catch (NumberFormatException n) {
                         Toast.makeText(getApplicationContext(), "Throwing Number format Exception", Toast.LENGTH_LONG).show();
                     } finally {
-                        Toast.makeText(getApplicationContext(), "Finally", Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(), "mStockTradingAt: " + mStockTradingAt, Toast.LENGTH_LONG).show();
+                        Log.d("Debug2",mStockTradingAt.toString());
+                        mStockTradingAt = new RetrieveFeedTask().execute(mYQLQuery).get();
+                        mStockTrader.setText(mStockTradingAt.toString());
                         mAmountInLocalCurrency = ((double) mStockValue * mStockTradingAt) * mLocalCurrencyExchangeRate;
+                        Log.d("Debug2",mAmountInLocalCurrency.toString());
                         DecimalFormat df = new DecimalFormat("#.##");
                         if (df instanceof DecimalFormat) {
                             ((DecimalFormat) df).setMinimumFractionDigits(2);
@@ -193,6 +201,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         editor.commit();
     }
 
-}
+
+
+}//MainActivity Class ends here function e
 
 
