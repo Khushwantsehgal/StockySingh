@@ -34,12 +34,14 @@ public class MainActivity extends Activity implements View.OnClickListener {
     public static String mLastTradePriceOnly;
     private static String mYQLQuery = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.quote%20where%20symbol%20in%20%28%22ADBE%22%29&format=json&diagnostics=true&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback=";
     //private static String mYQLQuery = "http://api.androidhive.info/contacts/";
+    private RetrieveStockPriceTask mRetrieveStockPriceTask;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
+        mRetrieveStockPriceTask = new RetrieveStockPriceTask();
     } // onCreate Ends
 
     private void initViews() {
@@ -157,17 +159,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
                     } finally {
                         Toast.makeText(getApplicationContext(), "mStockTradingAt: " + mStockTradingAt, Toast.LENGTH_LONG).show();
                         Log.d("Debug2",mStockTradingAt.toString());
-                        mStockTradingAt = new RetrieveFeedTask().execute(mYQLQuery).get();
-                        mStockTrader.setText(mStockTradingAt.toString());
-                        mAmountInLocalCurrency = ((double) mStockValue * mStockTradingAt) * mLocalCurrencyExchangeRate;
-                        Log.d("Debug2",mAmountInLocalCurrency.toString());
-                        DecimalFormat df = new DecimalFormat("#.##");
-                        if (df instanceof DecimalFormat) {
-                            ((DecimalFormat) df).setMinimumFractionDigits(2);
-                            mFinalAmount.setText((df.format(mAmountInLocalCurrency)).toString());
-                        }
-
-                    }
+                        mRetrieveStockPriceTask.execute(mYQLQuery);
+                         }
                 }
 
             } catch (Exception e) {
@@ -177,6 +170,17 @@ public class MainActivity extends Activity implements View.OnClickListener {
         }
 
     };
+
+    private void showFinalPrice(Double mStockTradingAt2) {
+        mStockTrader.setText(mStockTradingAt.toString());
+        mAmountInLocalCurrency = ((double) mStockValue * mStockTradingAt2) * mLocalCurrencyExchangeRate;
+        Log.d("Debug2", mAmountInLocalCurrency.toString());
+        DecimalFormat df = new DecimalFormat("#.##");
+        if (df instanceof DecimalFormat) {
+            ((DecimalFormat) df).setMinimumFractionDigits(2);
+            mFinalAmount.setText((df.format(mAmountInLocalCurrency)).toString());
+        }
+    }
 
     @Override
     protected void onPause() {
@@ -201,7 +205,43 @@ public class MainActivity extends Activity implements View.OnClickListener {
         editor.commit();
     }
 
+    private class RetrieveStockPriceTask extends AsyncTask<String, Void, Double> {
+        String mLastTradePriceOnly;
 
+        protected Double doInBackground(String... urls) {
+            StockyJSONParser stockyJSONParser = new StockyJSONParser();
+            JSONObject jsonObject = stockyJSONParser.getJSONFromURL(urls[0]);
+            Double tempValue=0.0;
+            try{
+                JSONObject mQuery = jsonObject.getJSONObject("query");
+                JSONObject mResult = mQuery.getJSONObject("results");
+                JSONObject mQuote = mResult.getJSONObject("quote");
+                String value = mQuote.getString("LastTradePriceOnly");
+                if(!value.isEmpty()){
+                    tempValue = Double.parseDouble(value);
+                }
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+
+
+            Log.d("Debug", "doInBackground(): tempValue: " + tempValue);
+
+            return tempValue;
+
+        }
+
+        protected void onProgressUpdate(Void... progress) {
+            // setProgressPercent(progress[0]);
+        }
+
+        protected void onPostExecute(Double result) {
+            // showDialog("Downloaded " + result + " bytes");
+            Log.d("Debug", " onPostUpdate() : result : " + result.toString());
+            showFinalPrice(result);
+        }
+    }//RetrieveStockPriceTask ends here
 
 }//MainActivity Class ends here function e
 
